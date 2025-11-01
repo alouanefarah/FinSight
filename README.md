@@ -10,17 +10,20 @@ pip install sentence-transformers chromadb
 
  1. Chunk the documents first
 
- 2. 
+
 python scripts/chunk_documents.py
 
- 3. Create embeddings 
+ 3. Create embeddings
+
+    
 python scripts/embed_bge_base.py
 
  4. Build the Chroma database
+    
 
 python scripts/build_chroma_bge.py
 
- 6. Finally, run the retriever to test
+ 5. Finally, run the retriever to test
 
     
 python scripts/rag_retriever.py
