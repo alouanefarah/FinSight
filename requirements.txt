@@ -1,0 +1,29 @@
+# ==============================
+# FinSight Banking RAG Project
+# ==============================
+
+# Core Python Libraries
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+
+# RAG / NLP Components
+chromadb>=0.4.24
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# Streamlit Dashboard
+streamlit>=1.36.0
+yfinance>=0.2.38
+matplotlib>=3.8.0
+
+# Data / Parsing (optional)
+PyPDF2>=3.0.1
+tqdm>=4.66.0
+
+# Optional APIs (FastAPI backend)
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+# Development Tools
+python-dotenv>=1.0.0
