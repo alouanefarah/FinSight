@@ -1,5 +1,6 @@
 # FinSight
-python -m venv venv \\
+python -m venv venv 
+
 venv\Scripts\activate
 pip install sentence-transformers chromadb
 
