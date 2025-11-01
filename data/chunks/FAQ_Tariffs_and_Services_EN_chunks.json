@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "FAQ_Tariffs_and_Services_EN",
+    "chunk_id": "FAQ_Tariffs_and_Services_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Faq Tariffs And Services En",
+    "text": "None\n1. General Questions\nQ1: Why does the bank charge account maintenance fees?\nThey cover the cost of managing your account, providing secure digital access, and processing transactions.\nQ2: Are there accounts without maintenance fees?\nYes. The Youth Account (18–25) and Savings Accounts are free of monthly maintenance fees.\nQ3: How will I know if fees change?\nFinSight publishes all tariff updates 30 days before they take effect, online and in branches.",
+    "token_count": 96,
+    "created_at": "2025-10-29T16:57:46.392888"
+  },
+  {
+    "doc_id": "FAQ_Tariffs_and_Services_EN",
+    "chunk_id": "FAQ_Tariffs_and_Services_EN_2",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Faq Tariffs And Services En",
+    "text": "None\n2. Cards and Withdrawals\nQ4: What are the annual fees for FinSight cards?\nVisa Classic 45 TND, Visa Gold 90 TND, Visa Platinum 150 TND, Visa Business 120 TND.\nQ5: Are withdrawals free at all ATMs?\nFree at FinSight ATMs; interbank withdrawals cost 1.5 TND.\nQ6: What should I do if my card is lost or stolen?\nBlock via FinSight Mobile “Block Card” or call 71 000 123. Replacement free if theft with police report.",
+    "token_count": 114,
+    "created_at": "2025-10-29T16:57:46.392888"
+  },
+  {
+    "doc_id": "FAQ_Tariffs_and_Services_EN",
+    "chunk_id": "FAQ_Tariffs_and_Services_EN_3",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Faq Tariffs And Services En",
+    "text": "None\n3. Transfers and Payments\nQ7: How much does a domestic transfer cost?\nStandard transfer 2 TND; inter-branch within FinSight free.\nQ8: What are international transfer fees?\n0.15% of the amount (min 30 TND, max 300 TND).\nQ9: How long does it take to receive an international transfer?\n1–3 working days depending on destination.\nQ10: Can I pay my bills online?\nYes, through FinSight Online or FinSight Mobile for utilities, telecom, and taxes.",
+    "token_count": 112,
+    "created_at": "2025-10-29T16:57:46.392888"
+  },
+  {
+    "doc_id": "FAQ_Tariffs_and_Services_EN",
+    "chunk_id": "FAQ_Tariffs_and_Services_EN_4",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Faq Tariffs And Services En",
+    "text": "None\n4. Overdrafts and Loans\nQ11: What is an overdraft facility?\nA short-term advance allowing a negative balance up to an authorized limit; interest applies only to usage.\nQ12: How is loan interest calculated?\nBased on Money Market Average Rate (TMM) plus a contractual margin.\nQ13: Can I repay my loan early?\nYes, at any time. Fixed-rate loans may include a small compensation fee.",
+    "token_count": 94,
+    "created_at": "2025-10-29T16:57:46.392888"
+  },
+  {
+    "doc_id": "FAQ_Tariffs_and_Services_EN",
+    "chunk_id": "FAQ_Tariffs_and_Services_EN_5",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Faq Tariffs And Services En",
+    "text": "None\n5. Digital Banking and Security\nQ14: Is FinSight Online secure?\nYes. It uses encryption, one-time passwords (OTP), and session timeouts.\nQ15: Can I change daily transfer limits?\nYes, via FinSight Mobile → Settings → Transfer Limits.\nQ16: What if I notice a suspicious transaction?\nContact Customer Service at 71 000 123 for investigation and refund if unauthorized.",
+    "token_count": 87,
+    "created_at": "2025-10-29T16:57:46.392888"
+  },
+  {
+    "doc_id": "FAQ_Tariffs_and_Services_EN",
+    "chunk_id": "FAQ_Tariffs_and_Services_EN_6",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Faq Tariffs And Services En",
+    "text": "None\n6. Support and Contact\nQ17: How can I contact the bank for more information?\nCall +216 71 000 123, email support@finsightbank.tn, or visit www.finsightbank.tn.\nQ18: Where can I find the full tariff brochure?\nAvailable under “Transparence tarifaire” on the FinSight website.",
+    "token_count": 77,
+    "created_at": "2025-10-29T16:57:46.392888"
+  }
+]

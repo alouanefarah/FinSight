@@ -1,0 +1,235 @@
+[
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "text": "None\nInterest Rate and Liquidity Risk Management Policy (ALM)\nVersion 2025 – Confidential Internal Document",
+    "token_count": 22,
+    "created_at": "2025-10-25T14:29:35.176468"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_2",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "text": "None\nPreamble\nThis Interest Rate and Liquidity Risk Management Policy (ALM – Asset and Liability Management) defines the principles, responsibilities, and methodologies applied by FinSight Bank to ensure the structural stability of its balance sheet, control its exposure to interest rate fluctuations, and maintain an adequate level of liquidity at all times.\nIt is established in accordance with the regulatory framework set by the Central Bank of Tunisia Circular No. 2014-02, complemented by Circular No. 2021-01 on prudential liquidity ratios (LCR and NSFR) and the Basel Committee on Banking Supervision (Basel III) recommendations.\nThis policy aims to balance profitability and financial security through sound management of assets and liabilities within internal limits approved by the ALM Committee and validated by the Board of Directors.",
+    "token_count": 163,
+    "created_at": "2025-10-25T14:29:35.176929"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_3",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "text": "None\n1. Objectives and Scope\n   The main objective of the ALM framework is to ensure FinSight Bank’s financial resilience in the face of market changes and liquidity constraints. Specifically, it aims to:\n   • Ensure a balanced balance sheet structure between short-, medium-, and long-term assets and liabilities;\n   • Anticipate interest rate fluctuations and measure their impact on net interest margin and economic capital;\n   • Maintain sufficient liquidity to meet obligations at all times, even under stress conditions;\n   • Strictly comply with BCT prudential ratios and approved internal limits.\n   This policy applies to all Bank portfolios and operations, including balance sheet, off-balance sheet, treasury, market operations, loans, deposits, and derivative instruments used for hedging purposes.",
+    "token_count": 158,
+    "created_at": "2025-10-25T14:29:35.177528"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Body",
+      "Main Role",
+      "Detailed Responsibilities"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4_1",
+        "values": "Body:Board of Directors, Main Role:Strategic Supervision, Detailed Responsibilities:Validates the ALM policy, approves liquidity and rate limits, and reviews consolidated reports."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4_2",
+        "values": "Body:ALM Committee, Main Role:Tactical Management, Detailed Responsibilities:Analyzes monthly sensitivity indicators, proposes adjustments, and recommends hedging strategies."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4_3",
+        "values": "Body:General Management, Main Role:Execution and Decision, Detailed Responsibilities:Decides on corrective actions and ensures the availability of required resources."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4_4",
+        "values": "Body:Treasury and Markets Department, Main Role:Operational Management, Detailed Responsibilities:Optimizes the balance sheet structure, manages liquidity, and interest rate positions."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4_5",
+        "values": "Body:Financial Risk Department, Main Role:Monitoring and Control, Detailed Responsibilities:Monitors exposures, calculates regulatory and internal ratios, and triggers alerts in case of breaches."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_4_6",
+        "values": "Body:Internal Audit, Main Role:Independent Evaluation, Detailed Responsibilities:Verifies compliance and report reliability."
+      }
+    ],
+    "token_count": 198,
+    "created_at": "2025-10-25T14:29:35.178344"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_5",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Risk Type",
+      "Definition",
+      "Main Sources",
+      "Potential Impact"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_5_1",
+        "values": "Risk Type:Interest Rate Risk, Definition:Risk of loss from unfavorable rate changes affecting net interest income or economic value., Main Sources:Mismatch between asset and liability repricing; market volatility., Potential Impact:Margin compression, portfolio devaluation."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_5_2",
+        "values": "Risk Type:Liquidity Risk, Definition:Risk of inability to meet short-term obligations., Main Sources:Massive deposit withdrawals, refinancing issues, interbank crisis., Potential Impact:Funding shortfalls, reputational damage."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_5_3",
+        "values": "Risk Type:Transformation Risk, Definition:Risk from mismatched funding and investment maturities., Main Sources:Excess long-term loans funded by short-term deposits., Potential Impact:Overreliance on refinancing."
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_5_4",
+        "values": "Risk Type:Structural FX Risk, Definition:Risk from open positions in foreign currencies., Main Sources:Mismatch between FX-denominated assets and liabilities., Potential Impact:Conversion losses, increased result volatility."
+      }
+    ],
+    "token_count": 215,
+    "created_at": "2025-10-25T14:29:35.178800"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_6",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Indicator",
+      "Methodology",
+      "Internal Alert Threshold",
+      "Monitoring Frequency"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_6_1",
+        "values": "Indicator:Net Interest Margin Sensitivity (ΔNII), Methodology:Simulation of ±200 bps rate shocks, Internal Alert Threshold:±5% of annual margin, Monitoring Frequency:Monthly"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_6_2",
+        "values": "Indicator:Economic Value Sensitivity (ΔEVE), Methodology:Revaluation of balance sheet under rate scenarios, Internal Alert Threshold:±15% of Tier 1 capital, Monitoring Frequency:Quarterly"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_6_3",
+        "values": "Indicator:Cumulative Repricing GAP, Methodology:Comparison of rate-sensitive assets and liabilities, Internal Alert Threshold:Max 10% of total balance sheet per band, Monitoring Frequency:Quarterly"
+      }
+    ],
+    "token_count": 120,
+    "created_at": "2025-10-25T14:29:35.179101"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_7",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Ratio",
+      "BCT Requirement",
+      "FinSight Internal Target",
+      "Monitoring Frequency"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_7_1",
+        "values": "Ratio:LCR – Liquidity Coverage Ratio, BCT Requirement:≥ 100%, FinSight Internal Target:≥ 110%, Monitoring Frequency:Daily"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_7_2",
+        "values": "Ratio:NSFR – Net Stable Funding Ratio, BCT Requirement:≥ 100%, FinSight Internal Target:≥ 105%, Monitoring Frequency:Monthly"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_7_3",
+        "values": "Ratio:Loan-to-Deposit Ratio (LTD), BCT Requirement:≤ 100%, FinSight Internal Target:≤ 95%, Monitoring Frequency:Monthly"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_7_4",
+        "values": "Ratio:Liquidity GAP (30 days), BCT Requirement:—, FinSight Internal Target:≤ 5% of total balance sheet, Monitoring Frequency:Weekly"
+      }
+    ],
+    "token_count": 136,
+    "created_at": "2025-10-25T14:29:35.179402"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_8",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "text": "None\n6. Structural Balance Sheet Management and Funding Plan\n   ALM management integrates structural aspects of the balance sheet. Transformation positions are monitored to ensure alignment between funding (demand, term deposits, borrowings) and uses (loans, securities, fixed assets).\n   An annual multi-year funding plan is developed based on commercial and macroeconomic projections. It defines liquidity objectives, refinancing needs, and investment strategies.\n   Central Bank refinancing is used strictly as a tactical management tool, not a structural liquidity source. Surplus liquidity is invested in short-term, low-risk instruments.",
+    "token_count": 123,
+    "created_at": "2025-10-25T14:29:35.179639"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_9",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "text": "None\n7. Tools, Systems, and ALM Reporting\n   Interest rate and liquidity risk monitoring relies on the integrated FinSight ALM Suite, interfaced with Core Banking and accounting systems.\n   This system enables simulation of rate scenarios, cash flow modeling, and automated production of regulatory indicators (LCR, NSFR, GAP, NII/EVE sensitivity).\n   Reports include:\n   • Daily Liquidity Dashboard;\n   • Rate Position by Maturity Table;\n   • Margin Sensitivity Report;\n   • Quarterly Stress Test Results;\n   • Consolidated ALM Report for the Board of Directors.\n   Reports are electronically archived in FinSightDocs/ALM with full audit trails and version control.",
+    "token_count": 131,
+    "created_at": "2025-10-25T14:29:35.180109"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_10",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Indicator",
+      "BCT Threshold",
+      "FinSight Limit",
+      "Alert Level"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_10_1",
+        "values": "Indicator:LCR, BCT Threshold:100%, FinSight Limit:110%, Alert Level:105%"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_10_2",
+        "values": "Indicator:NSFR, BCT Threshold:100%, FinSight Limit:105%, Alert Level:102%"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_10_3",
+        "values": "Indicator:ΔEVE / Capital, BCT Threshold:±20%, FinSight Limit:±15%, Alert Level:±12%"
+      },
+      {
+        "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_10_4",
+        "values": "Indicator:1-Year GAP / Total Balance Sheet, BCT Threshold:15%, FinSight Limit:10%, Alert Level:8%"
+      }
+    ],
+    "token_count": 115,
+    "created_at": "2025-10-25T14:29:35.180586"
+  },
+  {
+    "doc_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN",
+    "chunk_id": "Interest_Rate_and_Liquidity_Risk_Management_Policy_EN_11",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Interest Rate And Liquidity Risk Management Policy En",
+    "text": "None\n9. Training, Control, and Review\n   Staff involved in financial and treasury management receive regular training on ALM techniques, BCT regulations, and analytical tools. The ALM Committee conducts quarterly reviews, and a full internal audit is performed annually.\n   This policy is reviewed at least once per year, or following any major regulatory, market, or liquidity incident. It enters into force on January 1, 2025, after approval by the Board of Directors of FinSight Bank.",
+    "token_count": 97,
+    "created_at": "2025-10-25T14:29:35.180779"
+  }
+]

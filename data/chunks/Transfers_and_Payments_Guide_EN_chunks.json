@@ -1,0 +1,137 @@
+[
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "text": "None\n1. Overview\nThis guide explains how to perform transfers and payments securely via FinSight Online, FinSight Mobile, or branches. Transactions are designed to be simple, fast, and transparent.",
+    "token_count": 40,
+    "created_at": "2025-10-29T16:57:46.443992"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_2",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "section_title": null,
+    "headers": [
+      "Type",
+      "Description",
+      "Execution Time",
+      "Fee"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_2_1",
+        "values": "Type:Internal Transfer, Description:Between FinSight accounts, Execution Time:Instant, Fee:Free"
+      },
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_2_2",
+        "values": "Type:Interbank Transfer, Description:To another Tunisian bank, Execution Time:1 business day, Fee:2 TND"
+      },
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_2_3",
+        "values": "Type:Standing Order, Description:Recurring payments, Execution Time:As scheduled, Fee:Free (setup via Online/Mobile)"
+      }
+    ],
+    "token_count": 77,
+    "created_at": "2025-10-29T16:57:46.443992"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_3",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "text": "None\n3. International Transfers (SWIFT / IBAN)\nInternational transfers allow sending or receiving funds abroad through SWIFT.\nRequired: beneficiary name, SWIFT/BIC code, IBAN, payment purpose.\nFees: Standard 0.15% (min 30 TND, max 300 TND); Express 0.25% (min 50 TND, max 400 TND).\nProcessing Time: 1–3 working days depending on destination.\nCurrencies: EUR, USD, GBP, and others authorized by the Central Bank of Tunisia.",
+    "token_count": 114,
+    "created_at": "2025-10-29T16:57:46.443992"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_4",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "section_title": null,
+    "headers": [
+      "Channels",
+      "Availability",
+      "Confirmation"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_4_1",
+        "values": "Channels:Online, Availability:24/7, Confirmation:Instant"
+      },
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_4_2",
+        "values": "Channels:Mobile, Availability:24/7, Confirmation:Instant"
+      },
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_4_3",
+        "values": "Channels:Branch, Availability:Business hours, Confirmation:Printed receipt"
+      }
+    ],
+    "token_count": 45,
+    "created_at": "2025-10-29T16:57:46.443992"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_5",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "section_title": null,
+    "headers": [
+      "Operation",
+      "Limit",
+      "Fee",
+      "Validation"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_5_1",
+        "values": "Operation:Mobile Transfer (P2P), Limit:500 TND/day, Fee:Free, Validation:OTP"
+      },
+      {
+        "chunk_id": "Transfers_and_Payments_Guide_EN_5_2",
+        "values": "Operation:QR Merchant Payment, Limit:2,000 TND/day, Fee:0.5%, Validation:Instant confirmation"
+      }
+    ],
+    "token_count": 58,
+    "created_at": "2025-10-29T16:57:46.449056"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_6",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "text": "None\n6. Payment Security\nFinSight applies encryption, OTP authentication, timeouts, and fraud detection.\nTips: verify beneficiary IBAN, never share OTP, use secure devices and networks.",
+    "token_count": 44,
+    "created_at": "2025-10-29T16:57:46.449056"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_7",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "text": "None\n7. Troubleshooting and Assistance\nQ: What if my transfer is delayed?\nA: Check transfer history; contact support if pending after 48h.\nQ: Can I cancel a transfer?\nA: Only before execution; once processed, it cannot be reversed.\nQ: How do I receive money from abroad?\nA: Provide your IBAN and FinSight SWIFT code: FNSHTNTTXXX.",
+    "token_count": 85,
+    "created_at": "2025-10-29T16:57:46.449056"
+  },
+  {
+    "doc_id": "Transfers_and_Payments_Guide_EN",
+    "chunk_id": "Transfers_and_Payments_Guide_EN_8",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Transfers And Payments Guide En",
+    "text": "None\n8. Contact and Support\nCustomer Support: +216 71 000 123\nEmail: payments@finsightbank.tn\nWebsite: www.finsightbank.tn\nMobile App: FinSight Mobile – iOS & Android",
+    "token_count": 44,
+    "created_at": "2025-10-29T16:57:46.449056"
+  }
+]

@@ -1,0 +1,82 @@
+Market and Liquidity Risk Management Policy
+Date: January 2025
+Internal Document – Demonstration Use Only
+
+1. Purpose and Scope
+   This policy defines the general framework for managing, monitoring, and controlling market and liquidity risks within FinSight Bank. Its objective is to ensure the Bank’s financial stability, maintain solvency under all circumstances, and ensure compliance with the requirements of the Central Bank of Tunisia (BCT) and international risk management standards.
+   Market risk refers to the potential loss arising from adverse changes in interest rates, exchange rates, securities prices, or commodity values. Liquidity risk represents the possibility that the Bank may not be able to meet its financial obligations when due, without incurring significant losses.
+   This policy applies to all Bank activities exposed to these risks, including treasury, trading portfolios, foreign exchange operations, interbank placements, and short-term financing. It covers both domestic market operations and foreign currency positions.
+   The Bank aims to maintain a controlled risk profile aligned with its financial capacity and risk appetite while ensuring sustainable profitability. The framework described below specifies the monitoring mechanisms, internal limits, responsibilities, and controls necessary for sound and prudent risk management.
+
+2. Regulatory Framework and Governance
+   Market and liquidity risk management is governed by Central Bank of Tunisia regulations, notably:
+   • Circular BCT No. 2014-04 on overall risk management in credit institutions;
+   • Circular BCT No. 2016-06 establishing liquidity requirements and regulatory ratios (LCR, NSFR);
+   • Circular BCT No. 2011-06 concerning foreign exchange operations and open currency positions;
+   • Law No. 2016-48 on credit institutions and financial organizations.
+   Governance of the framework is structured across several bodies:
+   • The Board of Directors defines the overall risk appetite level and annually approves internal limits. It receives quarterly consolidated reports on market and liquidity positions.
+   • General Management ensures the operational implementation of risk policies, alignment of limits with business strategy, and availability of necessary resources.
+   • The Asset and Liability Management Committee (ALM) is the central decision-making body for balance sheet, interest rate, and liquidity management. It sets tactical guidelines, validates stress tests, and recommends limit adjustments.
+   • The Financial Risk Department is responsible for measuring, monitoring, and controlling exposures. It produces internal reports, monitors limit breaches, and proposes corrective actions.
+   • Internal Audit periodically evaluates the effectiveness of the framework, model reliability, and compliance with internal and regulatory policies.
+
+3. Market Risk – General Principles
+   Market risk refers to potential losses resulting from adverse movements in financial parameters affecting FinSight Bank’s positions. These parameters include interest rates, exchange rates, securities prices, and credit spreads.
+   The Bank distinguishes two main portfolios: the trading book (held for trading purposes) and the banking book (held for medium- and long-term investment). Each is monitored separately but coordinated to assess the overall exposure.
+   Market risk is primarily measured through Value at Risk (VaR), calculated daily using a 250-day historical approach with a 99% confidence level. This measure is complemented by sensitivity analyses (duration, convexity, PVBP) and stress tests.
+   FinSight Bank applies position limits by currency, instrument, and portfolio. Any transaction likely to exceed these limits is blocked by the information system prior to execution.
+   VaR results, sensitivities, and margin variations are communicated daily to the Finance Department and General Management.
+   Foreign exchange exposure is limited: open positions in foreign currencies are capped at 10% of regulatory capital per currency and 20% overall, in accordance with BCT Circular 2011-06. Foreign exchange positions are revalued daily at the interbank market average rate.
+
+4. Liquidity Risk – General Principles
+   Liquidity risk is defined as the likelihood that FinSight Bank cannot meet its financial obligations in the short or medium term or must do so at excessive cost. This risk may arise from mismatches between asset and liability flows, massive deposit withdrawals, or limited access to financial markets.
+   FinSight Bank adopts a prudent, centralized approach to liquidity management, directed by the ALM Committee and executed by Central Treasury. The key principles are diversification of funding sources, maintenance of a sufficient stock of liquid assets, and continuous monitoring of regulatory ratios.
+   The Bank monitors daily the two key indicators defined by the BCT: the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR). The LCR, which measures the Bank’s ability to withstand a 30-day liquidity stress, must remain above 100% at all times. The NSFR, which measures the adequacy of stable funding to long-term uses, must also remain above 100%.
+   The liquidity policy requires maintaining a liquidity buffer composed of government securities, treasury bills, and short-term interbank placements representing at least 15% of total customer deposits. This high-quality liquid asset (HQLA) portfolio must be immediately mobilizable during stress periods.
+   Liquidity contingency plans are established to manage crisis situations (mass withdrawals, market closures, downgrades). These plans define alert thresholds, immediate actions (asset mobilization, interbank borrowing, BCT access), and internal communication channels.
+
+5. Monitoring Positions and Internal Limits
+   Monitoring market and liquidity positions is central to FinSight Bank’s financial risk management framework. It is carried out by the Financial Risk Department in coordination with Central Treasury, the Finance Department, and the ALM Committee.
+   Internal limits are set annually by the Board of Directors based on ALM Committee recommendations. They are broken down by risk type, instrument, currency, and entity. Any breach must be immediately reported to General Management with a written justification and corrective action plan.
+   The FinSight Market Risk Suite information system consolidates market positions in real time, calculates risk indicators (VaR, stress VaR, duration, sensitivity), and automatically triggers alerts in case of breaches. Each alert is logged electronically, validated by the Financial Risk Officer, and presented to the ALM Committee during weekly meetings.
+   Liquidity positions are analyzed by maturity using gap analysis. Inflows and outflows are projected over 7, 30, 90, and 180 days to anticipate potential shortfalls. Liquidity ratios are consolidated into a dashboard transmitted daily to General Management.
+   All this data feeds the regulatory reports submitted to the BCT and forms the basis for periodic stress testing. The consistency between internal limits and regulatory thresholds is reviewed semi-annually.
+
+6. Stress Tests and Crisis Scenarios
+   Stress testing is a key component of market and liquidity risk management. It assesses FinSight Bank’s financial resilience under extreme macroeconomic, geopolitical, or operational conditions. These exercises complement quantitative indicators like VaR and LCR by simulating severe market disruptions.
+   The Bank conducts at least four stress-testing campaigns per year, following BCT Circular 2014-04 and Basel Committee guidelines. Scenarios include interest rate shocks (±200 basis points), major currency depreciations (up to 15% for the euro and 20% for the dollar), and declines in Tunisian sovereign bond values by 10%.
+   Each scenario combines multiple risk factors: simultaneous rate hikes, deposit withdrawals, interbank market contraction, and credit spread widening. Impacts are assessed on capital economic value, available liquidity, and projected profitability.
+   Results are presented to the ALM Committee and reported to General Management and the Risk Committee. In case of vulnerability, preventive measures are implemented, such as position adjustments, liquidity reallocation, or activation of contingency plans.
+
+7. Governance, Reporting, and Validation
+   The governance framework for market and liquidity risk relies on a clearly defined hierarchical structure ensuring coherence, responsiveness, and accountability.
+   The Board of Directors retains ultimate responsibility, defining strategic orientations, approving global limits, and ensuring sufficient human and technical resources.
+   The ALM Committee, chaired by General Management, acts as the central operational body. It meets monthly or as required by market conditions, reviews position reports, stress test results, and liquidity projections, and issues immediate recommendations.
+   The Financial Risk Department measures, monitors, and validates indicators independently from trading units, following the “second line of defense” principle. It produces consolidated daily reports and maintains regulatory monitoring.
+   Central Treasury manages operational liquidity positions, ensures compliance with limits, and executes ALM Committee instructions. It allocates resources based on priorities and reduces liquidity gaps to acceptable levels.
+   The Compliance Department verifies adherence to BCT requirements, model validity, and transparent result communication.
+
+8. Controls and Audit
+   The robustness of market and liquidity risk management relies on multi-level control:
+   • First-level control: Treasury and front-office units verify compliance with internal limits and procedures in real time.
+   • Second-level control: The Financial Risk Department validates models, checks daily indicators, and monitors breaches.
+   • Third-level control: Internal Audit periodically evaluates overall framework reliability, data quality, system robustness, and regulatory compliance.
+   External auditors and the BCT also conduct regular inspections on reporting quality, liquidity management, and model compliance. Any significant deficiency triggers a remediation plan approved by the ALM Committee.
+
+9. Information Systems and Tools
+   FinSight Bank relies on an integrated technological architecture for measuring, monitoring, and reporting market and liquidity risks. The core platform, FinSight Risk Suite, interfaces with market systems and general accounting.
+   Main modules include:
+   • Market Risk Monitor – calculates VaR, sensitivity, and portfolio duration.
+   • Liquidity Tracker – aggregates cash flows and projects maturity gaps.
+   • StressLab – simulates stress scenarios and models capital impact.
+   • ALM Dashboard – tracks consolidated ratios (LCR, NSFR, liquidity gaps, concentration) and automates regulatory reporting.
+
+10. Final Provisions and Regulatory Annexes
+    This Market and Liquidity Risk Management Policy enters into force on January 1, 2025, replacing all previous versions. Any major revision requires Board approval upon recommendation from the ALM and Risk Committees.
+    FinSight Bank commits to maintaining compliance with both Tunisian and international prudential standards, annually reassessing limits and updating stress tests per macroeconomic conditions.
+    The Bank’s permanent objectives are:
+    • LCR ≥ 110% and NSFR ≥ 105%
+    • Consolidated VaR ≤ 1.5% of capital
+    • Net FX position ≤ 20% of capital
+    Annexes include main regulatory references and internal ALM procedures.

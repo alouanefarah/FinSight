@@ -1,0 +1,70 @@
+# ====================================
+# 🧠 FinSight RAG Project .gitignore
+# ====================================
+
+# --- Python bytecode / cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual environments ---
+venv/
+.env/
+.venv/
+env/
+
+# --- OS / IDE specific ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Logs / temp files ---
+*.log
+*.tmp
+*.bak
+*.swp
+
+# --- Jupyter / Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Chroma / VectorDB data ---
+rag_index/bge/.chroma/
+rag_index/bge/index/
+rag_index/bge/collections/
+rag_index/bge/embeddings/
+rag_index/bge/*.sqlite3
+rag_index/bge/*.lock
+
+# --- Large embedding outputs ---
+*.npy
+*.npz
+*.pkl
+*.parquet
+*.h5
+
+# --- Data cache ---
+data/cache/
+data/tmp/
+data/.temp/
+data/*.zip
+
+# --- Build or dist folders ---
+build/
+dist/
+*.egg-info/
+
+# --- System files ---
+ehthumbs.db
+desktop.ini
+
+# --- Temporary metadata files ---
+*.xlsx~
+*.csv~
+*.bak~
+
+# --- Optional ---
+# Uncomment these if your docs or raw datasets are very large
+# data/docs_raw/
+# data/docs_public/
+# data/chunks/

@@ -1,0 +1,94 @@
+[
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Kyc Notice En",
+    "text": "None\n1. Why We Ask for Your Documents\nFinSight Bank must identify all clients before opening or maintaining an account under the Know Your Customer (KYC) framework.\nThis helps protect you and the financial system from fraud, money laundering, and terrorism financing.\nVerification ensures secure and compliant transactions in line with Tunisian and international regulations.",
+    "token_count": 67,
+    "created_at": "2025-10-29T16:57:46.413311"
+  },
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_2",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Kyc Notice En",
+    "text": "None\n2. What We Verify\nFinSight verifies your identity, residence, source of income or funds, and beneficial ownership if representing another person or entity.",
+    "token_count": 34,
+    "created_at": "2025-10-29T16:57:46.413311"
+  },
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_3",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Kyc Notice En",
+    "section_title": null,
+    "headers": [
+      "Type of Client",
+      "Mandatory Documents"
+    ],
+    "rows": [
+      {
+        "chunk_id": "KYC_Notice_EN_3_1",
+        "values": "Type of Client:Individual (Resident), Mandatory Documents:National ID or Passport + Proof of Residence + Proof of Income"
+      },
+      {
+        "chunk_id": "KYC_Notice_EN_3_2",
+        "values": "Type of Client:Non‑Resident, Mandatory Documents:Passport + Residence Permit + Proof of Address Abroad + Source of Funds"
+      },
+      {
+        "chunk_id": "KYC_Notice_EN_3_3",
+        "values": "Type of Client:Company / Legal Entity, Mandatory Documents:Certificate of Incorporation + Statutes + Tax ID + Shareholders List + Manager ID"
+      },
+      {
+        "chunk_id": "KYC_Notice_EN_3_4",
+        "values": "Type of Client:Association or NGO, Mandatory Documents:Legal Recognition Decree + Board Resolution + Representative ID"
+      }
+    ],
+    "token_count": 102,
+    "created_at": "2025-10-29T16:57:46.413311"
+  },
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_4",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Kyc Notice En",
+    "text": "None\n4. How We Protect Your Information\nYour personal data are confidential and processed in compliance with Law No. 2004‑63, the Bank’s Data Protection Policy, and BCT regulations.\nInformation is never shared without legal authorization. Access is restricted to authorized staff and stored securely.",
+    "token_count": 58,
+    "created_at": "2025-10-29T16:57:46.413311"
+  },
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_5",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Kyc Notice En",
+    "text": "None\n5. How Often We Update Your Information\nFinSight may request updated documents when your ID or address changes, when opening new products, or when transactions are large or unusual.\nKeeping your data current avoids service interruptions or delays.",
+    "token_count": 48,
+    "created_at": "2025-10-29T16:57:46.415848"
+  },
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_6",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Kyc Notice En",
+    "text": "None\n6. Your Rights\nYou may access, correct, or update your personal data anytime by contacting your branch or Customer Relations Department:\nPhone: +216 71 000 123\nEmail: kyc@finsightbank.tn",
+    "token_count": 46,
+    "created_at": "2025-10-29T16:57:46.415848"
+  },
+  {
+    "doc_id": "KYC_Notice_EN",
+    "chunk_id": "KYC_Notice_EN_7",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Kyc Notice En",
+    "text": "None\n7. Our Commitment\nFinSight handles your information with care, professionalism, and respect.\nBy fulfilling KYC requirements, you contribute to a secure and transparent banking system.",
+    "token_count": 37,
+    "created_at": "2025-10-29T16:57:46.415848"
+  }
+]

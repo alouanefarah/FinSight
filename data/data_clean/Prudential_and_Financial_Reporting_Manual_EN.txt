@@ -1,0 +1,87 @@
+Provisioning and Credit Commitment Monitoring Policy
+Date: January 2025
+Internal Document – Demonstration Use Only
+
+1. Purpose and Scope
+   This policy defines the general framework governing the constitution of credit risk provisions and the monitoring of credit commitments granted by FinSight Bank. It aims to ensure the reliability of financial statements, transparency in credit management, and compliance with the regulatory requirements of the Central Bank of Tunisia (BCT).
+   It applies to all operations generating credit risk, including loans, overdrafts, guarantees, letters of credit, investment financing, or similar facilities. It also covers post-disbursement monitoring, periodic reviews, detection of deterioration indicators, and loan reclassification.
+   Provisioning is a key element of the prudential framework. It reflects the accounting principle of prudence and ensures coverage of probable or incurred losses within credit portfolios. This policy complements the 2025 General Credit Policy by specifying its provisions related to credit risk and asset impairment.
+   It is mandatory for all departments, branches, and subsidiaries operating under FinSight Bank’s authority, including foreign branches (subject to local adaptations).
+
+2. Regulatory Basis and References
+   The regulatory framework for provisioning and credit monitoring is primarily based on BCT circulars and regulations, including:
+   • BCT Circular No. 91-24 (Dec 17, 1991) – Classification of loans and provisioning rules;
+   • BCT Circular No. 2013-21 – Governance and credit risk management;
+   • BCT Circular No. 2021-01 – Calculation and recognition of collective provisions;
+   • Law No. 2016-48 on credit institutions and financial organizations.
+   This policy also complies with IFRS 9 standards on financial instrument impairment while adhering to Tunisian prudential requirements.
+   FinSight Bank supplements these with internal procedures defined by the Risk Department and approved by the Credit Governance Committee, specifying calculation methods, thresholds, review processes, and documentation standards.
+
+3. Credit Risk Management Principles
+   Credit risk management is based on prudence, consistency, and traceability. FinSight Bank identifies, measures, and covers potential losses from counterparties unable to meet obligations.
+   Provisioning is preventive, reflecting the true quality of the credit portfolio and ensuring the Bank’s financial stability. Provisions are accounting charges for probable losses and are regularly reviewed.
+   Consistency over time is ensured through uniform application of provisioning rules. Each provision must be fully documented and justified.
+   Two types of provisions are distinguished:
+   • Specific provisions: for individually identified risky exposures;
+   • Collective provisions: for latent risks on performing loans.
+   The Risk Department supervises methodological consistency, while the Finance Department ensures accurate accounting and regulatory recording. Both are subject to periodic Internal Audit and external auditor review.
+
+4. Credit Classification
+   In line with BCT Circular No. 91-24, exposures are classified into five categories based on risk level and customer condition, using objective criteria such as payment delays, solvency, collateral, and recovery outlook.
+   • Class 0 – Performing Loans: Regular payments, no incidents.
+   • Class 1 – Watchlist: Delay < 30 days or early risk signals.
+   • Class 2 – Substandard: Delay 30–90 days or clear financial difficulty.
+   • Class 3 – Doubtful: Delay > 90 days, uncertain recovery despite guarantees.
+   • Class 4 – Loss: Unrecoverable, liquidation or client default.
+   All exposures above Class 0 require written justification outlining deterioration factors, planned measures, and available guarantees. Reclassifications are automated by FinSight Risk Monitor, based on payment behavior, internal rating, and alerts. Improvements may lead to upward reclassification upon Credit Committee approval.
+
+5. Provisioning Methodology
+   FinSight Bank applies a hybrid approach combining BCT requirements and IFRS 9 expected credit loss (ECL) principles.
+   Provisions are calculated as Exposure at Default (EAD) × Probability of Default (PD) × Loss Given Default (LGD), adjusted by internal factors (sector, duration, collateral quality).
+   Minimum provisioning rates set by BCT:
+   • Class 1: 5%
+   • Class 2: 20%
+   • Class 3: 50%
+   • Class 4: 100%
+   Collective provisions cover latent risks on performing loans (Class 0) at 1% of total performing exposures, weighted by sectoral risk (0.5% for public sector, up to 1.5% for high-risk SMEs).
+   Provisions are updated quarterly, with recalculations triggered automatically via the FinSight Provisions Engine when portfolio changes occur (new exposures, deterioration, recoveries).
+   All amounts are validated by the Credit Governance Committee before inclusion in regulatory statements and quarterly BCT reporting.
+
+6. Provisioning Governance
+   Provisioning governance is based on separation of duties, independence, and internal control.
+   The Board of Directors defines strategic guidelines, approves this policy, and reviews quarterly consolidated reports on provisions and portfolio quality.
+   General Management ensures operational implementation and sufficiency of provisions. The Credit Governance Committee oversees classification, validations, and adjustments, maintaining official meeting records.
+   The Risk Department monitors portfolio quality, prepares provisioning reports, and proposes adjustments. The Finance Department ensures proper accounting integration. Internal Audit verifies data integrity, accuracy, and process compliance.
+
+7. Monitoring and Review of Commitments
+   Monitoring commitments is central to credit risk control. FinSight Bank uses an early-warning, proactive approach with periodic reviews.
+   Review Frequency:
+   • Class 0: Annual
+   • Class 1: Quarterly
+   • Classes 2–3: Monthly
+   • Class 4: Continuous (until write-off)
+   Each review includes updated financial analysis, collateral verification, payment behavior, and sectoral assessment. Results are logged in FinSight Risk Monitor.
+   Deteriorations (delays, revenue drop, litigation, guarantee withdrawal) must be immediately reported to the Risk Department. Additional provisioning or reclassification requires Credit Committee approval.
+   Portfolio evolution (by segment, region, and risk class) is presented in quarterly dashboards for senior management and supervisory reporting.
+
+8. Treatment of Non-Performing and Doubtful Loans
+   Loans in Classes 2–4 follow specific recovery and legal procedures under BCT regulation.
+   Upon delays >30 days or financial distress, the Recovery Department takes over, drafting restructuring or recovery plans (rescheduling, collateral activation, legal action).
+   • Class 3 loans: Minimum 50% provision;
+   • Class 4 loans: 100% provision (write-off after full recovery attempts).
+   Restructured loans are re-evaluated periodically and may be reclassified after 12 months of regular payment. The Legal Department manages litigation, ensuring accounting recognition of losses.
+
+9. Reporting and Regulatory Control
+   FinSight Bank submits quarterly reports to the BCT detailing:
+   • Distribution of exposures by risk class;
+   • Total specific and collective provisions;
+   • Changes in provisions and reclassifications;
+   • Details of restructured, litigated, and written-off loans.
+   Reports are generated by the Finance Department, validated by the Risk Department, and transmitted via the BCT Online Reporting platform.
+   A consolidated report is submitted to the Audit Committee and Board, including coverage ratios and sectoral trends. Internal Audit and external auditors verify compliance with BCT and IFRS requirements.
+
+10. Final Provisions
+    This policy takes effect on January 1, 2025, and is reviewed annually in Q4 to incorporate regulatory and audit updates.
+    Changes in methodology, rates, or reclassification rules require approval from the Credit Governance Committee and validation by General Management.
+    FinSight Bank commits to maintaining a minimum coverage ratio of 90% for classified exposures, monitored quarterly by the Risk Department and reported to the Board.
+    By adopting this policy, FinSight Bank reaffirms its commitment to prudent, transparent, and proactive credit risk management, ensuring financial soundness and lasting stakeholder confidence.

@@ -1,0 +1,210 @@
+[
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\nOperational Risk and Business Continuity Management Policy (BCP)\nVersion 2025 – Confidential Internal Document",
+    "token_count": 21,
+    "created_at": "2025-10-25T14:29:35.298640"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_2",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\nPreamble\nThis Operational Risk and Business Continuity Management Policy (BCP) formalizes the framework adopted by FinSight Bank to identify, assess, control, and mitigate operational risks that could impact the stability, security, and continuity of its activities.\nIt is based on Law No. 2016-48 on credit institutions, the circulars of the Central Bank of Tunisia, and the international standard ISO 22301 on Business Continuity Management.\nThis framework aims to ensure the Bank’s resilience against major incidents — whether technical, human, or environmental — while guaranteeing client protection, data integrity, and continuity of essential services.",
+    "token_count": 128,
+    "created_at": "2025-10-25T14:29:35.299065"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_3",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\n1. Objectives and Scope\n   The purpose of the operational risk management policy is to protect the Bank’s assets, ensure the reliability of operations, and strengthen stakeholder confidence.\n   It applies to all business processes, information systems, subsidiaries, external partners, and critical service providers of FinSight Bank.\n   The Business Continuity Plan (BCP) forms the operational extension of this policy. It defines the systems, procedures, and resources required to maintain or quickly restore the Bank’s vital functions in the event of a major disruption.\n   The BCP is activated in the event of a major incident, such as a natural disaster, cyberattack, IT outage, on-site damage, or unavailability of key personnel.",
+    "token_count": 147,
+    "created_at": "2025-10-25T14:29:35.299681"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_4",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Level",
+      "Main Responsibility",
+      "Description"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_4_1",
+        "values": "Level:Board of Directors, Main Responsibility:Strategic Supervision, Description:Approves the global policy, the BCP, and the annual operational risk report."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_4_2",
+        "values": "Level:Risk Committee, Main Responsibility:Oversight and Control, Description:Analyzes risk indicators and approves remediation plans."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_4_3",
+        "values": "Level:General Management, Main Responsibility:Operational Implementation, Description:Ensures adequate resources for risk management and business continuity."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_4_4",
+        "values": "Level:Risk Department, Main Responsibility:Framework Coordination, Description:Leads risk mapping, controls, and BCP implementation."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_4_5",
+        "values": "Level:Internal Audit, Main Responsibility:Independent Evaluation, Description:Assesses the effectiveness and compliance of the overall framework."
+      }
+    ],
+    "token_count": 138,
+    "created_at": "2025-10-25T14:29:35.300359"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_5",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Category",
+      "Description",
+      "Examples"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_5_1",
+        "values": "Category:Human, Description:Risks linked to staff errors, omissions, or misconduct., Examples:Data entry errors, procedure breaches, internal fraud."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_5_2",
+        "values": "Category:Process, Description:Risks from flawed process design, execution, or supervision., Examples:Delays, missing dual validation, absence of control."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_5_3",
+        "values": "Category:Systems, Description:Risks from technical failure or system downtime., Examples:Server outage, connectivity loss, software bug."
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_5_4",
+        "values": "Category:External, Description:Risks from external events beyond the Bank’s control., Examples:Cyberattack, fire, flood, power outage, pandemic."
+      }
+    ],
+    "token_count": 135,
+    "created_at": "2025-10-25T14:29:35.300682"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_6",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Criticality Level",
+      "Probability",
+      "Estimated Impact",
+      "Priority Action"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_6_1",
+        "values": "Criticality Level:Low, Probability:Rare, Estimated Impact:Limited, Priority Action:Routine monitoring"
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_6_2",
+        "values": "Criticality Level:Moderate, Probability:Occasional, Estimated Impact:Significant, Priority Action:Local mitigation plan"
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_6_3",
+        "values": "Criticality Level:High, Probability:Frequent, Estimated Impact:Major, Priority Action:Monthly Risk Department follow-up"
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_6_4",
+        "values": "Criticality Level:Critical, Probability:Very frequent, Estimated Impact:Systemic, Priority Action:Immediate escalation to Risk Committee"
+      }
+    ],
+    "token_count": 101,
+    "created_at": "2025-10-25T14:29:35.300936"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_7",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "section_title": null,
+    "headers": [
+      "Critical Function",
+      "Target RTO",
+      "Contingency Measure",
+      "Responsible Department"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_7_1",
+        "values": "Critical Function:Payment Processing, Target RTO:4 hours, Contingency Measure:Mirror server + automatic failover, Responsible Department:IT Department"
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_7_2",
+        "values": "Critical Function:Deposit Management, Target RTO:8 hours, Contingency Measure:Secondary database + recovery scripts, Responsible Department:Financial Back Office"
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_7_3",
+        "values": "Critical Function:Customer Service, Target RTO:12 hours, Contingency Measure:Call redirection + remote access, Responsible Department:Branch Network"
+      },
+      {
+        "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_7_4",
+        "values": "Critical Function:Treasury / Markets, Target RTO:2 hours, Contingency Measure:Dedicated backup system, Responsible Department:Market & Liquidity Department"
+      }
+    ],
+    "token_count": 130,
+    "created_at": "2025-10-25T14:29:35.301280"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_8",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\n6. Incident Management and Lessons Learned\n   All operational incidents, whether or not they cause financial loss, must be reported within 24 hours to the Risk Department via the FinSight Risk Monitor system.\n   An incident register is maintained and analyzed quarterly. Each major event is documented in an incident report outlining causes, impacts, corrective measures, and lessons learned.\n   The feedback process (RETEX) is an integral part of this policy, driving continuous improvement of internal procedures, staff awareness, and plan updates.",
+    "token_count": 102,
+    "created_at": "2025-10-25T14:29:35.301495"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_9",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\n7. Cybersecurity and Information System Protection\n   In an increasingly digital environment, FinSight Bank places top priority on cybersecurity.\n   The information security framework follows a “defense-in-depth” approach combining technical, organizational, and human controls.\n   External connections, sensitive data exchanges, and remote access are subject to enhanced monitoring. A Cyber Response Plan is integrated into the BCP and coordinated with the IT Security Department.\n   Cybersecurity performance indicators are monitored by the IT Department and reported quarterly to the Risk Committee and General Management.",
+    "token_count": 111,
+    "created_at": "2025-10-25T14:29:35.301911"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_10",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\n8. Training and Resilience Culture\n   Operational resilience depends on staff competence and vigilance.\n   Annual training programs familiarize employees with incident management procedures, crisis response behaviors, and emergency communication protocols.\n   Regular technical and organizational simulations are conducted to test interdepartmental coordination and crisis responsiveness.\n   FinSight Bank fosters a strong culture of awareness, discipline, and preparedness across all divisions.",
+    "token_count": 84,
+    "created_at": "2025-10-25T14:29:35.302304"
+  },
+  {
+    "doc_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN",
+    "chunk_id": "Operational_Risk_and_Business_Continuity_Management_Policy_EN_11",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Operational Risk And Business Continuity Management Policy En",
+    "text": "None\n9. Review and Entry into Force\n   This policy is reviewed annually or following any major incident, scope change, or regulatory update.\n   It enters into force on January 1, 2025, after approval by the Board of Directors and the Risk Committee.\n   All FinSight Bank entities must adhere to this policy and actively contribute to its continuous improvement.",
+    "token_count": 69,
+    "created_at": "2025-10-25T14:29:35.302608"
+  }
+]

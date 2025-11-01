@@ -1,0 +1,151 @@
+[
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\nAccounts and Cards Brochure\nVersion 2025 – Public Brochure",
+    "token_count": 17,
+    "created_at": "2025-10-29T16:57:46.288429"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_2",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\n1. Your Banking Relationship, Simplified\nAt FinSight Bank, opening an account is quick, transparent, and secure.\nWe offer a complete range of accounts and cards designed to fit your lifestyle — from your first salary to your professional expansion.",
+    "token_count": 50,
+    "created_at": "2025-10-29T16:57:46.288429"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_3",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "section_title": null,
+    "headers": [
+      "Account Type",
+      "Target Clients",
+      "Main Benefits",
+      "Monthly Fee"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_3_1",
+        "values": "Account Type:Current Account, Target Clients:Employees, professionals, Main Benefits:Salary deposits, payments, cheque book, e-banking access, Monthly Fee:6 TND"
+      },
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_3_2",
+        "values": "Account Type:Youth Account (18–25), Target Clients:Students and young graduates, Main Benefits:Free maintenance, Visa Classic card, SMS alerts, Monthly Fee:0 TND"
+      },
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_3_3",
+        "values": "Account Type:Savings Account, Target Clients:All clients wishing to save, Main Benefits:Attractive interest up to 5% p.a., liquidity anytime, Monthly Fee:Free"
+      },
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_3_4",
+        "values": "Account Type:Premium Account, Target Clients:Executives, frequent travellers, Main Benefits:Priority service, Gold card, dedicated advisor, Monthly Fee:15 TND"
+      }
+    ],
+    "token_count": 152,
+    "created_at": "2025-10-29T16:57:46.291273"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_4",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\nOpening Requirements: National ID/Passport, proof of residence, proof of income, minimum initial deposit 20 TND (Current) / 50 TND (Savings).\nProcessing Time: Account opening completed within 48 hours once documentation is validated.",
+    "token_count": 51,
+    "created_at": "2025-10-29T16:57:46.291273"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_5",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "section_title": null,
+    "headers": [
+      "Card Type",
+      "Currency",
+      "Annual Fee",
+      "Withdrawal Limit/Day",
+      "Advantages"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_5_1",
+        "values": "Card Type:Visa Classic, Currency:TND, Annual Fee:45 TND, Withdrawal Limit/Day:1,000 TND, Advantages:Contactless payments, international use, 3‑D Secure"
+      },
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_5_2",
+        "values": "Card Type:Visa Gold, Currency:TND/EUR, Annual Fee:90 TND, Withdrawal Limit/Day:2,500 TND, Advantages:Higher limits, travel insurance, concierge service"
+      },
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_5_3",
+        "values": "Card Type:Visa Platinum, Currency:Multi-currency, Annual Fee:150 TND, Withdrawal Limit/Day:5,000 TND, Advantages:Lounge access, assistance abroad, purchase protection"
+      },
+      {
+        "chunk_id": "Accounts_and_Cards_Brochure_EN_5_4",
+        "values": "Card Type:Visa Business, Currency:TND, Annual Fee:120 TND, Withdrawal Limit/Day:3,000 TND, Advantages:For SME and corporate use"
+      }
+    ],
+    "token_count": 171,
+    "created_at": "2025-10-29T16:57:46.291815"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_6",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\nCard Delivery: 5 working days after approval. Clients notified via SMS.",
+    "token_count": 17,
+    "created_at": "2025-10-29T16:57:46.291815"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_7",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\n4. Lost or Stolen Card Procedure\n1. Immediate Blocking – call 71 000 123 or use FinSight Mobile “Block Card” option.\n2. Declaration – report to the police within 24h.\n3. Replacement – bring declaration to branch; new card within 5 working days.\n4. Fee – free if theft (with report), otherwise 15 TND.",
+    "token_count": 75,
+    "created_at": "2025-10-29T16:57:46.291815"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_8",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\n5. Account Management Tools\nFinSight Online: Real-time monitoring, secure transfers, statements.\nFinSight Mobile: Instant balance alerts, QR payments, limit settings.\nATM Network: Withdrawals, deposits, PIN change, mini-statements 24/7.",
+    "token_count": 56,
+    "created_at": "2025-10-29T16:57:46.291815"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_9",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\n6. Advantages for Our Clients\nTransparent pricing, personalized assistance, paperless statements, 3‑D Secure protection, biometric login, and GDPR data safety.",
+    "token_count": 37,
+    "created_at": "2025-10-29T16:57:46.291815"
+  },
+  {
+    "doc_id": "Accounts_and_Cards_Brochure_EN",
+    "chunk_id": "Accounts_and_Cards_Brochure_EN_10",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Accounts And Cards Brochure En",
+    "text": "None\n7. Contact and Support\nCall Center: +216 71 000 123\nEmail: support@finsightbank.tn\nWebsite: www.finsightbank.tn\nMobile App: FinSight Mobile – available on iOS and Android",
+    "token_count": 46,
+    "created_at": "2025-10-29T16:57:46.291815"
+  }
+]

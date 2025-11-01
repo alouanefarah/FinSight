@@ -1,0 +1,81 @@
+Operational Risk and Business Continuity Management Policy (BCP)
+Version 2025 – Confidential Internal Document
+
+Preamble
+This Operational Risk and Business Continuity Management Policy (BCP) formalizes the framework adopted by FinSight Bank to identify, assess, control, and mitigate operational risks that could impact the stability, security, and continuity of its activities.
+It is based on Law No. 2016-48 on credit institutions, the circulars of the Central Bank of Tunisia, and the international standard ISO 22301 on Business Continuity Management.
+This framework aims to ensure the Bank’s resilience against major incidents — whether technical, human, or environmental — while guaranteeing client protection, data integrity, and continuity of essential services.
+
+1. Objectives and Scope
+   The purpose of the operational risk management policy is to protect the Bank’s assets, ensure the reliability of operations, and strengthen stakeholder confidence.
+   It applies to all business processes, information systems, subsidiaries, external partners, and critical service providers of FinSight Bank.
+   The Business Continuity Plan (BCP) forms the operational extension of this policy. It defines the systems, procedures, and resources required to maintain or quickly restore the Bank’s vital functions in the event of a major disruption.
+   The BCP is activated in the event of a major incident, such as a natural disaster, cyberattack, IT outage, on-site damage, or unavailability of key personnel.
+
+2. Reference Framework and Governance Principles
+   FinSight Bank is committed to implementing an operational risk management system compliant with the requirements of the Central Bank of Tunisia and international best practices.
+   The framework is founded on three core principles: responsibility, prevention, and resilience.
+   Roles and responsibilities are clearly defined as follows:
+   Level | Main Responsibility | Description
+   Board of Directors | Strategic Supervision | Approves the global policy, the BCP, and the annual operational risk report.
+   Risk Committee | Oversight and Control | Analyzes risk indicators and approves remediation plans.
+   General Management | Operational Implementation | Ensures adequate resources for risk management and business continuity.
+   Risk Department | Framework Coordination | Leads risk mapping, controls, and BCP implementation.
+   Internal Audit | Independent Evaluation | Assesses the effectiveness and compliance of the overall framework.
+   This multi-level structure ensures continuous oversight, clear mission distribution, and immediate responsiveness to major incidents.
+
+3. Definition and Classification of Operational Risk
+   Operational risk is defined as the risk of loss resulting from inadequate or failed processes, systems, personnel, or external events. It includes, but is not limited to, risks related to fraud, human error, IT failure, non-compliance, cybersecurity, and business continuity.
+   FinSight Bank classifies operational risks into the following categories:
+   Category | Description | Examples
+   Human | Risks linked to staff errors, omissions, or misconduct. | Data entry errors, procedure breaches, internal fraud.
+   Process | Risks from flawed process design, execution, or supervision. | Delays, missing dual validation, absence of control.
+   Systems | Risks from technical failure or system downtime. | Server outage, connectivity loss, software bug.
+   External | Risks from external events beyond the Bank’s control. | Cyberattack, fire, flood, power outage, pandemic.
+   Each category is periodically assessed and assigned a mitigation plan approved by the Risk Department.
+
+4. Management Methodology and Key Indicators
+   Operational risk management follows a continuous four-step cycle: identification, assessment, control, and monitoring.
+   Identification is based on risk self-assessments (RCSA), audits, and internal reporting.
+   Assessment combines probability of occurrence with financial and reputational impact.
+   Risks are ranked through an exposure matrix defining response priorities.
+   Criticality Level | Probability | Estimated Impact | Priority Action
+   Low | Rare | Limited | Routine monitoring
+   Moderate | Occasional | Significant | Local mitigation plan
+   High | Frequent | Major | Monthly Risk Department follow-up
+   Critical | Very frequent | Systemic | Immediate escalation to Risk Committee
+   Monitoring relies on Key Risk Indicators (KRIs) tracked monthly — such as incident count, average downtime, security alerts, and total financial losses.
+
+5. Business Continuity Management (BCP)
+   The Business Continuity Plan (BCP) ensures the continuation of FinSight Bank’s critical operations during major crises.
+   It is based on a Business Impact Analysis (BIA) identifying vital processes and defining acceptable recovery times (Recovery Time Objectives – RTO).
+   Each operational department maintains a specific continuity plan detailing response procedures for site, personnel, or system disruptions.
+   Backup sites, data replication, and manual fallback procedures are established to ensure timely recovery.
+   Critical Function | Target RTO | Contingency Measure | Responsible Department
+   Payment Processing | 4 hours | Mirror server + automatic failover | IT Department
+   Deposit Management | 8 hours | Secondary database + recovery scripts | Financial Back Office
+   Customer Service | 12 hours | Call redirection + remote access | Branch Network
+   Treasury / Markets | 2 hours | Dedicated backup system | Market & Liquidity Department
+   Continuity tests are conducted at least annually to validate the BCP’s effectiveness. Results are documented and submitted to the Audit Committee and the Central Bank of Tunisia.
+
+6. Incident Management and Lessons Learned
+   All operational incidents, whether or not they cause financial loss, must be reported within 24 hours to the Risk Department via the FinSight Risk Monitor system.
+   An incident register is maintained and analyzed quarterly. Each major event is documented in an incident report outlining causes, impacts, corrective measures, and lessons learned.
+   The feedback process (RETEX) is an integral part of this policy, driving continuous improvement of internal procedures, staff awareness, and plan updates.
+
+7. Cybersecurity and Information System Protection
+   In an increasingly digital environment, FinSight Bank places top priority on cybersecurity.
+   The information security framework follows a “defense-in-depth” approach combining technical, organizational, and human controls.
+   External connections, sensitive data exchanges, and remote access are subject to enhanced monitoring. A Cyber Response Plan is integrated into the BCP and coordinated with the IT Security Department.
+   Cybersecurity performance indicators are monitored by the IT Department and reported quarterly to the Risk Committee and General Management.
+
+8. Training and Resilience Culture
+   Operational resilience depends on staff competence and vigilance.
+   Annual training programs familiarize employees with incident management procedures, crisis response behaviors, and emergency communication protocols.
+   Regular technical and organizational simulations are conducted to test interdepartmental coordination and crisis responsiveness.
+   FinSight Bank fosters a strong culture of awareness, discipline, and preparedness across all divisions.
+
+9. Review and Entry into Force
+   This policy is reviewed annually or following any major incident, scope change, or regulatory update.
+   It enters into force on January 1, 2025, after approval by the Board of Directors and the Risk Committee.
+   All FinSight Bank entities must adhere to this policy and actively contribute to its continuous improvement.

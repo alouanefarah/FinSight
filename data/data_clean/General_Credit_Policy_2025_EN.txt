@@ -1,0 +1,149 @@
+General Credit Policy 2025
+Date: January 2025
+Internal Document – Demonstration Use Only
+
+Executive Summary
+The General Credit Policy 2025 of FinSight Bank defines the overall framework governing the granting, management, monitoring, and control of credit operations within the institution. It is designed in alignment with the prudential requirements issued by the Central Bank of Tunisia (BCT), particularly Circulars No. 91-24, 2013-21, and 2021-01. This policy ensures balanced loan portfolio growth while maintaining a risk level consistent with the Bank’s financial stability and reputation.
+It applies to all departments, branches, subsidiaries, and entities within the FinSight Group and serves as the reference foundation for all financing decisions involving individual, professional, or institutional clients.
+
+1. Purpose and Scope
+1.1 Objective
+This policy formalizes the guiding principles governing credit activities, from prospecting to full repayment, including evaluation, decision-making, disbursement, and post-disbursement monitoring. It ensures sound, prudent, and transparent management of credit exposures in compliance with BCT regulations and FinSight Bank’s governance standards.
+1.2 Scope
+This policy covers all products and operations involving credit risk, including medium- and long-term loans, overdrafts, trade finance, guarantees, treasury loans, SME financing, and project financing. It applies to all FinSight Bank entities in Tunisia and abroad, subject to local regulatory adaptations.
+1.3 Regulatory Framework
+This policy is based on the following BCT circulars and guidelines:
+• Circular No. 91-24 – Prudential rules and loan classification;
+• Circular No. 2013-21 – Banking governance and risk management;
+• Circular No. 2021-01 – Collective and specific provisioning requirements.
+FinSight Bank supplements these with internal compliance and transparency standards.
+
+2. Definitions and Terminology
+2.1 Credit Definition
+Credit refers to any act by which the Bank makes or commits to make funds available to a client or assumes a signature risk on their behalf. It includes loans, guarantees, letters of credit, and similar instruments.
+2.2 Regulatory Terminology
+• On-balance exposure: loans disbursed in cash;
+• Off-balance exposure: guarantees, letters of credit, or sureties;
+• Performing loan: facility fully compliant with contractual terms;
+• Classified loan: exposure categorized according to BCT classes (1–4).
+2.3 Credit Risk
+Credit risk is the potential loss arising from a client’s or counterparty’s failure to meet obligations. It includes counterparty, concentration, sectoral, and country risk.
+2.4 Reference Rate
+FinSight Bank applies the Money Market Average Rate (TMM) as the reference for variable interest rates. Margins vary by client risk profile and product type.
+
+3. Credit Governance
+3.1 Principles
+Credit governance is based on separation of functions, independence of control, and traceability of decisions. Each hierarchical level acts within its delegated authority, under the supervision of the Credit Committee, Risk Committee, and General Management.
+3.2 Decision-Making Bodies
+• Operational Credit Committee – handles exposures up to 500,000 TND;
+• Group Credit Committee – approves exposures above 500,000 TND or with significant sectoral risk;
+• Risk and Compliance Committee – ensures adherence to prudential rules and issues strategic recommendations.
+3.3 Responsibilities
+Each operational department is responsible for the quality of its loan portfolio, including monitoring, early detection of incidents, and rating updates. The Risk Department consolidates data and ensures BCT reporting.
+3.4 Internal Audit
+Internal Audit conducts periodic reviews to ensure credit decisions comply with this policy and delegated limits. Major anomalies are escalated to the Audit Committee.
+
+4. Credit Granting and Analysis Process
+4.1 General Principles
+Credit approval relies on a thorough assessment of solvency, historical behavior, and project viability. All decisions must be documented, justified, and based on verified information.
+4.2 Review Steps
+1. Data collection – legal, financial, and KYC documentation, proposed guarantees;
+2. Financial analysis – review of financial statements, debt, liquidity, and profitability ratios;
+3. Qualitative analysis – reputation, governance, market position;
+4. Internal rating – FinSight Scoring® model using probability of default (PD);
+5. Hierarchical validation – signature and approval per delegation level.
+4.3 Eligibility Criteria
+• Debt-to-income ratio ≤ 40% for individuals;
+• Total indebtedness ≤ 6× monthly income;
+• Adequate real or personal guarantees;
+• Full KYC and AML compliance.
+4.4 Disbursement and Monitoring
+No disbursement occurs without legal and control validation. Operations are processed via FinSight CoreBank 2.0 ensuring complete traceability.
+
+5. Internal Rating and Scoring
+5.1 Purpose
+Internal rating evaluates each counterparty’s probability of default and supports provisioning and capital adequacy calculations per BCT Circular No. 2013-21.
+5.2 FinSight Scoring® Methodology
+Weighting:
+• Financial component – 60%;
+• Behavioral component – 25%;
+• Qualitative component – 15%.
+5.3 Rating Scale
+Nine-grade scale (AAA to C). Counterparties rated BBB or below are subject to enhanced monitoring. Ratings are reviewed annually or upon material events.
+Rating | Annual PD (%) | Risk Level | BCT Category
+AAA–AA | <0.5% | Very Low | Class 0
+A–BBB | 0.5–3% | Moderate | Class 1
+BB–B | 3–10% | High | Class 2
+CCC–C | >10% | Critical | Classes 3–4
+5.4 Impact on Decision
+The internal rating directly influences:
+• Pricing (risk-based margin);
+• Delegation level required for approval;
+• Provisioning level per risk category.
+
+6. Delegations and Authority Levels
+6.1 Delegation Principle
+Delegations are structured by risk, exposure amount, and counterparty profile, ensuring balanced responsibility and effective control.
+6.2 Decision Levels
+• Senior Account Officer – up to 50,000 TND (retail);
+• Branch Manager – up to 250,000 TND;
+• Regional Director – up to 500,000 TND (SMEs);
+• Group Credit Committee – above 500,000 TND or sectoral risk.
+Exceptions require General Management approval and written justification.
+6.3 Validation
+A credit decision is valid only within delegated limits and with supporting documentation archived in FinSightDocs.
+6.4 Delegation Control
+Internal Audit verifies compliance semi-annually. Any out-of-delegation decision is irregular and triggers a compliance report.
+
+7. Credit Monitoring
+7.1 Principles
+Monitoring ensures that client performance and financed projects remain consistent with expectations and risk appetite. Early warning detection is emphasized.
+7.2 Review Frequency
+• Annual for standard exposures;
+• Quarterly for watchlist loans;
+• Monthly for high-risk exposures.
+7.3 Monitoring Tools
+FinSight Risk Monitor tracks key metrics (outstandings, delays, limits, scoring trends) with automated alerts to account officers and supervisors.
+7.4 Incident Management
+Payment delays >15 days must be reported to the Risk Department. Recovery plans are implemented within 30 days and exposures reclassified if necessary.
+
+8. Reporting and Regulatory Oversight
+.1 Internal Reporting
+Monthly consolidated reports on portfolio quality, sectoral concentration, and provisions are submitted to the Credit, Risk, and Executive Committees.
+8.2 BCT Reporting
+Semiannual regulatory reporting to BCT includes:
+• Risk classification (Classes 0–4);
+• Specific and collective provisions;
+• Restructured and litigated loans.
+Data are validated by the Finance Department and transmitted via BCT Reporting Online.
+8.3 Compliance Control
+The Compliance Department performs ad hoc quality reviews. Deviations are documented and subject to corrective action.
+
+9. Provisioning and Asset Classification
+9.1 Loan Classification
+Five categories per BCT regulation:
+• Class 0 – Performing;
+• Class 1 – Watchlist (<30 days);
+• Class 2 – Substandard (30–90 days);
+• Class 3 – Doubtful (>90 days);
+• Class 4 – Loss (unrecoverable).
+9.2 Provision Calculation
+Provision rates: 5%, 20%, 50%, 100% by class. Reviewed quarterly and adjusted per collateral value and risk trend.
+9.3 Collective Provisions
+Collective provision = 1% × (Performing exposure weighted by sector risk).
+Validated per Circular No. 2021-01 and by external auditors.
+9.4 Reclassification and Write-Off
+Reclassifications are decided by the Credit Committee upon sustained improvement. Write-offs require completion of recovery procedures and General Management approval.
+
+10. Final Provisions
+Effective January 1, 2025. Annual review by the Risk and Executive Departments to incorporate regulatory updates. Electronic publication on FinSight Intranet; external disclosure requires authorization.
+Compliance with this policy is mandatory. Violations result in disciplinary and legal action.
+Annex – Internal Risk Management Ratios
+Indicator | Internal Limit | BCT Reference | 2025 Status
+Sector concentration | ≤ 25% | — | Compliant
+Classified loans | ≤ 7% | ≤ 8% | Compliant
+Provision coverage | ≥ 90% | ≥ 85% | Compliant
+Tier 1 capital ratio | ≥ 10.5% | ≥ 10% | Compliant
+
+Conclusion
+FinSight Bank reaffirms its position as a responsible, transparent, and resilient financial institution, combining regulatory integrity with sustainable performance.

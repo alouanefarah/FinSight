@@ -1,0 +1,243 @@
+[
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_1",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "text": "None\nInternal Instruction – SME and Personal Credit",
+    "token_count": 11,
+    "created_at": "2025-10-25T14:29:35.203094"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_2",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "text": "None\n1. Preamble\n   This Internal Instruction – SME and Personal Credit establishes the rules, procedures, and prudential criteria governing the granting, management, and monitoring of financing provided to individuals and small and medium-sized enterprises (SMEs) by FinSight Bank.\n   It complements the General Credit Policy 2025 and specifies the detailed application methods by customer segment, in compliance with the requirements of the Central Bank of Tunisia (Circulars No. 91-24, 2013-21, and 2021-01).\n   The objective of this instruction is to ensure balanced portfolio growth while controlling counterparty risks and promoting responsible access to financing. It defines eligibility criteria, granting conditions, delegation limits, and requirements regarding guarantees, with the aim of standardizing practices across the FinSight network.",
+    "token_count": 158,
+    "created_at": "2025-10-25T14:29:35.203497"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_3",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "text": "None\n2. General Principles\n   FinSight Bank bases its credit policy on prudence, fairness, and transparency. Each credit decision must be supported by an objective analysis of repayment capacity, guarantee quality, and regulatory compliance.\n   Loans are granted exclusively to identified clients, assessed according to the KYC (Know Your Customer) procedure, and with a stable and verifiable financial situation.\n   Financial and behavioral analyses must be carried out using internal scoring tools, notably the FinSight Scoring® model, which integrates quantitative criteria (income, indebtedness, banking history) and qualitative factors (business sector, governance, payment behavior).\n   No exception to granting rules may be made without the express approval of the Credit Risk Department or the Group Credit Committee.",
+    "token_count": 153,
+    "created_at": "2025-10-25T14:29:35.204079"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_4",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "section_title": null,
+    "headers": [
+      "Type of Credit",
+      "Purpose",
+      "Maximum Duration",
+      "Authorized Debt Ratio",
+      "Required Guarantees"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_4_1",
+        "values": "Type of Credit:Housing Loan, Purpose:Purchase or construction of main residence, Maximum Duration:20 years, Authorized Debt Ratio:≤ 40% of net monthly income, Required Guarantees:Mortgage on financed property + death/disability insurance"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_4_2",
+        "values": "Type of Credit:Consumer Loan, Purpose:Personal purchases, miscellaneous expenses, household equipment, Maximum Duration:5 years, Authorized Debt Ratio:≤ 35% of net monthly income, Required Guarantees:Salary domiciliation commitment"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_4_3",
+        "values": "Type of Credit:Auto/Equipment Loan, Purpose:Vehicle or personal equipment financing, Maximum Duration:7 years, Authorized Debt Ratio:≤ 40%, Required Guarantees:Vehicle pledge + insurance"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_4_4",
+        "values": "Type of Credit:Education Loan, Purpose:Tuition or training fees, Maximum Duration:3 years, Authorized Debt Ratio:≤ 30%, Required Guarantees:Joint or parental guarantee"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_4_5",
+        "values": "Type of Credit:Authorized Overdraft, Purpose:Temporary cash need, Maximum Duration:1 year renewable, Authorized Debt Ratio:≤ 25%, Required Guarantees:Proof of regular income and satisfactory banking history"
+      }
+    ],
+    "token_count": 215,
+    "created_at": "2025-10-25T14:29:35.204859"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_5",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "section_title": null,
+    "headers": [
+      "Type of Credit",
+      "Purpose",
+      "Maximum Duration",
+      "Specific Conditions",
+      "Usual Guarantees"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_5_1",
+        "values": "Type of Credit:Working Capital Loan, Purpose:Operating cycle financing (working capital, inventories), Maximum Duration:2 years renewable, Specific Conditions:Quarterly cash flow monitoring, Usual Guarantees:Business assets pledge or owner guarantee"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_5_2",
+        "values": "Type of Credit:Investment Loan, Purpose:Equipment acquisition or business expansion, Maximum Duration:10 years, Specific Conditions:Mandatory profitability study, Usual Guarantees:Mortgage or bank guarantee"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_5_3",
+        "values": "Type of Credit:Seasonal/Campaign Loan, Purpose:Seasonal cash flow needs, Maximum Duration:12 months, Specific Conditions:Proof of seasonality, Usual Guarantees:Collateral on inventory or trade receivables"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_5_4",
+        "values": "Type of Credit:Cash Facility, Purpose:Temporary cash flow gaps, Maximum Duration:6 months renewable, Specific Conditions:Prior authorization by Regional Management, Usual Guarantees:Commitment to restore balance within 30 days"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_5_5",
+        "values": "Type of Credit:Factoring / Receivables Mobilization, Purpose:Financing based on client invoices, Maximum Duration:6 months, Specific Conditions:Verified client contracts, Usual Guarantees:Assignment of receivables duly notified"
+      }
+    ],
+    "token_count": 220,
+    "created_at": "2025-10-25T14:29:35.205348"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_6",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "section_title": null,
+    "headers": [
+      "Decision Level",
+      "Authorization Limit",
+      "Conditions"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_6_1",
+        "values": "Decision Level:Senior Relationship Manager, Authorization Limit:Up to 50,000 TND, Conditions:Subject to satisfactory banking history"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_6_2",
+        "values": "Decision Level:Branch Manager, Authorization Limit:Up to 250,000 TND, Conditions:Real guarantee required"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_6_3",
+        "values": "Decision Level:Regional Management, Authorization Limit:Up to 500,000 TND, Conditions:Validation by Risk Management Department"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_6_4",
+        "values": "Decision Level:Group Credit Committee, Authorization Limit:Above 500,000 TND, Conditions:Collective decision after Risk and Finance review"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_6_5",
+        "values": "Decision Level:Board of Directors, Authorization Limit:Exceptional or strategic exposures, Conditions:Final mandatory approval"
+      }
+    ],
+    "token_count": 128,
+    "created_at": "2025-10-25T14:29:35.205826"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_7",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "section_title": null,
+    "headers": [
+      "Type of Guarantee",
+      "Minimum Coverage Rate",
+      "Revaluation",
+      "Comments"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_7_1",
+        "values": "Type of Guarantee:Real Estate Mortgage, Minimum Coverage Rate:120% of loan amount, Revaluation:Every 2 years, Comments:Updated ownership certificate"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_7_2",
+        "values": "Type of Guarantee:Joint Guarantee, Minimum Coverage Rate:100% of residual risk, Revaluation:Annual, Comments:Solvency verification"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_7_3",
+        "values": "Type of Guarantee:Deposit Guarantee, Minimum Coverage Rate:20–50% depending on profile, Revaluation:Permanent, Comments:Capped at 50% of loan amount"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_7_4",
+        "values": "Type of Guarantee:Movable Asset Pledge, Minimum Coverage Rate:80% of market value, Revaluation:Quarterly, Comments:Requires certified inventory"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_7_5",
+        "values": "Type of Guarantee:External Bank Guarantee (SOTUGAR), Minimum Coverage Rate:70–90% depending on category, Revaluation:Contractual monitoring, Comments:Applicable to eligible SMEs"
+      }
+    ],
+    "token_count": 172,
+    "created_at": "2025-10-25T14:29:35.207147"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_8",
+    "chunk_type": "table",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "section_title": null,
+    "headers": [
+      "Credit Category",
+      "Delay / Indicators",
+      "Review Frequency",
+      "Minimum Provision Rate"
+    ],
+    "rows": [
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_8_1",
+        "values": "Credit Category:Performing (Class 0), Delay / Indicators:No incident, Review Frequency:Annual, Minimum Provision Rate:1% collective"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_8_2",
+        "values": "Credit Category:Under Watch (Class 1), Delay / Indicators:Delay < 30 days, Review Frequency:Quarterly, Minimum Provision Rate:5%"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_8_3",
+        "values": "Credit Category:Doubtful (Class 2), Delay / Indicators:Delay 30–90 days, Review Frequency:Monthly, Minimum Provision Rate:20%"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_8_4",
+        "values": "Credit Category:Compromised (Class 3), Delay / Indicators:Delay > 90 days, Review Frequency:Monthly, Minimum Provision Rate:50%"
+      },
+      {
+        "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_8_5",
+        "values": "Credit Category:Unrecoverable (Class 4), Delay / Indicators:Proven insolvency, Review Frequency:Immediate, Minimum Provision Rate:100%"
+      }
+    ],
+    "token_count": 161,
+    "created_at": "2025-10-25T14:29:35.208404"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_9",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "text": "None\n8. Monitoring and Reporting\n   Outstanding amounts, incidents, and performance by segment are consolidated in a monthly report submitted to the Risk Department and the Group Credit Committee.\n   Reports include the following indicators:\n   • Total credit volume by type and region;\n   • Distribution by risk rating and business sector;\n   • Classified loan ratio and provisions made;\n   • Compliance with internal and regulatory limits.\n   This information is integrated into the Quarterly Prudential Report submitted to the Central Bank of Tunisia and into the FinSight Credit Dashboard for General Management.",
+    "token_count": 103,
+    "created_at": "2025-10-25T14:29:35.208737"
+  },
+  {
+    "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
+    "chunk_id": "Internal_Instruction_SME_and_Personal_Credit_EN_10",
+    "chunk_type": "paragraph",
+    "section": null,
+    "title": "Internal Instruction Sme And Personal Credit En",
+    "text": "None\n9. Revision and Entry into Force\n   This instruction is reviewed annually or whenever the regulatory framework changes. Any significant evolution in market conditions, segment risk profile, or prudential limits triggers an immediate update approved by the Group Credit Committee and General Management.\n   It enters into force on January 1, 2025, and its application is mandatory across all FinSight Bank entities.",
+    "token_count": 75,
+    "created_at": "2025-10-25T14:29:35.209378"
+  }
+]

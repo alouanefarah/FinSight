@@ -1,0 +1,47 @@
+1. General Questions
+Q1: Why does the bank charge account maintenance fees?
+They cover the cost of managing your account, providing secure digital access, and processing transactions.
+Q2: Are there accounts without maintenance fees?
+Yes. The Youth Account (18–25) and Savings Accounts are free of monthly maintenance fees.
+Q3: How will I know if fees change?
+FinSight publishes all tariff updates 30 days before they take effect, online and in branches.
+
+2. Cards and Withdrawals
+Q4: What are the annual fees for FinSight cards?
+Visa Classic 45 TND, Visa Gold 90 TND, Visa Platinum 150 TND, Visa Business 120 TND.
+Q5: Are withdrawals free at all ATMs?
+Free at FinSight ATMs; interbank withdrawals cost 1.5 TND.
+Q6: What should I do if my card is lost or stolen?
+Block via FinSight Mobile “Block Card” or call 71 000 123. Replacement free if theft with police report.
+
+3. Transfers and Payments
+Q7: How much does a domestic transfer cost?
+Standard transfer 2 TND; inter-branch within FinSight free.
+Q8: What are international transfer fees?
+0.15% of the amount (min 30 TND, max 300 TND).
+Q9: How long does it take to receive an international transfer?
+1–3 working days depending on destination.
+Q10: Can I pay my bills online?
+Yes, through FinSight Online or FinSight Mobile for utilities, telecom, and taxes.
+
+4. Overdrafts and Loans
+Q11: What is an overdraft facility?
+A short-term advance allowing a negative balance up to an authorized limit; interest applies only to usage.
+Q12: How is loan interest calculated?
+Based on Money Market Average Rate (TMM) plus a contractual margin.
+Q13: Can I repay my loan early?
+Yes, at any time. Fixed-rate loans may include a small compensation fee.
+
+5. Digital Banking and Security
+Q14: Is FinSight Online secure?
+Yes. It uses encryption, one-time passwords (OTP), and session timeouts.
+Q15: Can I change daily transfer limits?
+Yes, via FinSight Mobile → Settings → Transfer Limits.
+Q16: What if I notice a suspicious transaction?
+Contact Customer Service at 71 000 123 for investigation and refund if unauthorized.
+
+6. Support and Contact
+Q17: How can I contact the bank for more information?
+Call +216 71 000 123, email support@finsightbank.tn, or visit www.finsightbank.tn.
+Q18: Where can I find the full tariff brochure?
+Available under “Transparence tarifaire” on the FinSight website.

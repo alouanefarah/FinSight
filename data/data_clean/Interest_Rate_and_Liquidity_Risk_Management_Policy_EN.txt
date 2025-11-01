@@ -1,0 +1,83 @@
+Interest Rate and Liquidity Risk Management Policy (ALM)
+Version 2025 – Confidential Internal Document
+
+Preamble
+This Interest Rate and Liquidity Risk Management Policy (ALM – Asset and Liability Management) defines the principles, responsibilities, and methodologies applied by FinSight Bank to ensure the structural stability of its balance sheet, control its exposure to interest rate fluctuations, and maintain an adequate level of liquidity at all times.
+It is established in accordance with the regulatory framework set by the Central Bank of Tunisia Circular No. 2014-02, complemented by Circular No. 2021-01 on prudential liquidity ratios (LCR and NSFR) and the Basel Committee on Banking Supervision (Basel III) recommendations.
+This policy aims to balance profitability and financial security through sound management of assets and liabilities within internal limits approved by the ALM Committee and validated by the Board of Directors.
+
+1. Objectives and Scope
+   The main objective of the ALM framework is to ensure FinSight Bank’s financial resilience in the face of market changes and liquidity constraints. Specifically, it aims to:
+   • Ensure a balanced balance sheet structure between short-, medium-, and long-term assets and liabilities;
+   • Anticipate interest rate fluctuations and measure their impact on net interest margin and economic capital;
+   • Maintain sufficient liquidity to meet obligations at all times, even under stress conditions;
+   • Strictly comply with BCT prudential ratios and approved internal limits.
+   This policy applies to all Bank portfolios and operations, including balance sheet, off-balance sheet, treasury, market operations, loans, deposits, and derivative instruments used for hedging purposes.
+
+2. ALM Governance Framework
+   The ALM system is based on a clear and hierarchical governance structure ensuring the separation of execution, analysis, and control functions.
+   Body | Main Role | Detailed Responsibilities
+   Board of Directors | Strategic Supervision | Validates the ALM policy, approves liquidity and rate limits, and reviews consolidated reports.
+   ALM Committee | Tactical Management | Analyzes monthly sensitivity indicators, proposes adjustments, and recommends hedging strategies.
+   General Management | Execution and Decision | Decides on corrective actions and ensures the availability of required resources.
+   Treasury and Markets Department | Operational Management | Optimizes the balance sheet structure, manages liquidity, and interest rate positions.
+   Financial Risk Department | Monitoring and Control | Monitors exposures, calculates regulatory and internal ratios, and triggers alerts in case of breaches.
+   Internal Audit | Independent Evaluation | Verifies compliance and report reliability.
+   This organization ensures effective supervision and independent control consistent with sound financial governance principles.
+
+3. Identification and Typology of ALM Risks
+   Interest rate and liquidity risks are analyzed using a dual approach: structural (asset-liability mismatches) and cyclical (market shocks).
+   Risk Type | Definition | Main Sources | Potential Impact
+   Interest Rate Risk | Risk of loss from unfavorable rate changes affecting net interest income or economic value. | Mismatch between asset and liability repricing; market volatility. | Margin compression, portfolio devaluation.
+   Liquidity Risk | Risk of inability to meet short-term obligations. | Massive deposit withdrawals, refinancing issues, interbank crisis. | Funding shortfalls, reputational damage.
+   Transformation Risk | Risk from mismatched funding and investment maturities. | Excess long-term loans funded by short-term deposits. | Overreliance on refinancing.
+   Structural FX Risk | Risk from open positions in foreign currencies. | Mismatch between FX-denominated assets and liabilities. | Conversion losses, increased result volatility.
+
+4. Interest Rate Risk Management
+   Interest rate risk management aims to protect net interest income (NII) and economic capital from rate fluctuations. FinSight Bank applies two complementary methods: GAP Analysis and Economic Value of Equity (EVE) Sensitivity Measurement.
+   • GAP Analysis: Groups assets and liabilities by maturity bands to identify repricing gaps.
+   • EVE Sensitivity: Measures the impact of a 100 basis point rate change on the net present value of capital.
+   Indicator | Methodology | Internal Alert Threshold | Monitoring Frequency
+   Net Interest Margin Sensitivity (ΔNII) | Simulation of ±200 bps rate shocks | ±5% of annual margin | Monthly
+   Economic Value Sensitivity (ΔEVE) | Revaluation of balance sheet under rate scenarios | ±15% of Tier 1 capital | Quarterly
+   Cumulative Repricing GAP | Comparison of rate-sensitive assets and liabilities | Max 10% of total balance sheet per band | Quarterly
+   Results are consolidated in a monthly ALM Report presented to the ALM Committee and Risk Committee. In case of internal limit breaches, General Management may use hedging instruments (swaps, FRA, caps/floors) or adjust the balance sheet structure.
+
+5. Liquidity Risk Management
+   Liquidity risk is monitored using both regulatory and internal indicators. The Bank ensures stable liquidity, diversified funding sources, and limited concentration per counterparty or client segment.
+   Ratio | BCT Requirement | FinSight Internal Target | Monitoring Frequency
+   LCR – Liquidity Coverage Ratio | ≥ 100% | ≥ 110% | Daily
+   NSFR – Net Stable Funding Ratio | ≥ 100% | ≥ 105% | Monthly
+   Loan-to-Deposit Ratio (LTD) | ≤ 100% | ≤ 95% | Monthly
+   Liquidity GAP (30 days) | — | ≤ 5% of total balance sheet | Weekly
+   The eligible liquidity asset portfolio includes only Tunisian sovereign securities and interbank placements with first-tier institutions.
+   Quarterly stress tests are conducted based on extreme scenarios (market crisis, massive deposit withdrawal, refinancing freeze). Results are communicated to the BCT and integrated into the Quarterly Prudential Report.
+
+6. Structural Balance Sheet Management and Funding Plan
+   ALM management integrates structural aspects of the balance sheet. Transformation positions are monitored to ensure alignment between funding (demand, term deposits, borrowings) and uses (loans, securities, fixed assets).
+   An annual multi-year funding plan is developed based on commercial and macroeconomic projections. It defines liquidity objectives, refinancing needs, and investment strategies.
+   Central Bank refinancing is used strictly as a tactical management tool, not a structural liquidity source. Surplus liquidity is invested in short-term, low-risk instruments.
+
+7. Tools, Systems, and ALM Reporting
+   Interest rate and liquidity risk monitoring relies on the integrated FinSight ALM Suite, interfaced with Core Banking and accounting systems.
+   This system enables simulation of rate scenarios, cash flow modeling, and automated production of regulatory indicators (LCR, NSFR, GAP, NII/EVE sensitivity).
+   Reports include:
+   • Daily Liquidity Dashboard;
+   • Rate Position by Maturity Table;
+   • Margin Sensitivity Report;
+   • Quarterly Stress Test Results;
+   • Consolidated ALM Report for the Board of Directors.
+   Reports are electronically archived in FinSightDocs/ALM with full audit trails and version control.
+
+8. Internal Limits and Alert Thresholds
+   To prevent structural imbalances, FinSight Bank defines stricter internal limits than regulatory thresholds. These are reviewed annually by the ALM Committee and approved by the Board.
+   Indicator | BCT Threshold | FinSight Limit | Alert Level
+   LCR | 100% | 110% | 105%
+   NSFR | 100% | 105% | 102%
+   ΔEVE / Capital | ±20% | ±15% | ±12%
+   1-Year GAP / Total Balance Sheet | 15% | 10% | 8%
+   Any breach triggers an immediate ALM alert sent to General Management and the Risk Committee, followed by a corrective action plan within 10 business days.
+
+9. Training, Control, and Review
+   Staff involved in financial and treasury management receive regular training on ALM techniques, BCT regulations, and analytical tools. The ALM Committee conducts quarterly reviews, and a full internal audit is performed annually.
+   This policy is reviewed at least once per year, or following any major regulatory, market, or liquidity incident. It enters into force on January 1, 2025, after approval by the Board of Directors of FinSight Bank.

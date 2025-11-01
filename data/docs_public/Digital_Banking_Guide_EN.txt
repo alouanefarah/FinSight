@@ -1,0 +1,61 @@
+1. Overview
+FinSight Online and FinSight Mobile give you secure access to your accounts 24/7 — anywhere, anytime.
+Manage your finances, pay bills, transfer funds, and control your cards instantly from your computer or smartphone.
+
+2. Access and Login
+FinSight Online (Web Portal):
+1. Visit www.finsightbank.tn and click “Client Login”.
+2. Enter your Client ID and password provided by the Bank.
+3. Validate the login with the One-Time Code (OTP) sent to your registered phone.
+
+FinSight Mobile (App):
+1. Download “FinSight Mobile” from the App Store or Google Play.
+2. Log in using the same credentials as FinSight Online.
+3. Activate biometric login for future access (optional).
+
+Security Tip: Never share your login details. FinSight will never ask for your PIN or password by phone or email.
+
+3. Main Features
+Function | Description
+Account Overview | Real-time balance and transaction history.
+Transfers | Domestic, inter-branch, and international (SWIFT/IBAN).
+Payments | Pay utility bills, taxes, or telecom services instantly.
+Standing Orders | Schedule automatic recurring transfers.
+Card Management | Block/unblock cards, adjust spending limits, change PIN.
+Notifications | Receive instant alerts for transactions or card activity.
+Statement Download | Generate official statements in PDF.
+FX Operations | Simulate and execute currency exchanges.
+
+4. Security and Data Protection
+FinSight uses encryption, multi-factor authentication, and real-time fraud detection.
+Sessions disconnect after 5 minutes of inactivity.
+All data are hosted on secure servers compliant with INPDP and GDPR.
+
+Best Practices:
+• Keep your phone software up to date.
+• Avoid public Wi-Fi for financial operations.
+• Immediately block your account in case of suspicious activity.
+
+5. Limits and Conditions
+Operation | Daily Limit | Authorization
+Transfers within FinSight | 10,000 TND | Standard
+Interbank Transfers | 5,000 TND | OTP confirmation
+International Transfers | 2,000 EUR | Compliance validation
+Bill Payments | Unlimited | Automatic
+Mobile to Mobile Transfers | 500 TND | Simplified
+
+6. Frequently Asked Questions
+Q: What if I forget my password?
+A: Click “Forgot Password” on the login page. A reset code will be sent to your registered number.
+Q: Can I download my statements?
+A: Yes. You can generate them in PDF format under “Statements”.
+Q: How do I block my card online?
+A: Go to “Card Management” → “Block Card”. The operation is instant.
+Q: How do I update my phone number?
+A: Visit your branch or contact customer support for verification.
+
+7. Contact and Support
+Call Center: +216 71 000 123
+Email: support@finsightbank.tn
+Website: www.finsightbank.tn
+Mobile App: FinSight Mobile – iOS & Android

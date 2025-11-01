@@ -1,0 +1,78 @@
+Internal Instruction – SME and Personal Credit
+
+1. Preamble
+   This Internal Instruction – SME and Personal Credit establishes the rules, procedures, and prudential criteria governing the granting, management, and monitoring of financing provided to individuals and small and medium-sized enterprises (SMEs) by FinSight Bank.
+   It complements the General Credit Policy 2025 and specifies the detailed application methods by customer segment, in compliance with the requirements of the Central Bank of Tunisia (Circulars No. 91-24, 2013-21, and 2021-01).
+   The objective of this instruction is to ensure balanced portfolio growth while controlling counterparty risks and promoting responsible access to financing. It defines eligibility criteria, granting conditions, delegation limits, and requirements regarding guarantees, with the aim of standardizing practices across the FinSight network.
+
+2. General Principles
+   FinSight Bank bases its credit policy on prudence, fairness, and transparency. Each credit decision must be supported by an objective analysis of repayment capacity, guarantee quality, and regulatory compliance.
+   Loans are granted exclusively to identified clients, assessed according to the KYC (Know Your Customer) procedure, and with a stable and verifiable financial situation.
+   Financial and behavioral analyses must be carried out using internal scoring tools, notably the FinSight Scoring® model, which integrates quantitative criteria (income, indebtedness, banking history) and qualitative factors (business sector, governance, payment behavior).
+   No exception to granting rules may be made without the express approval of the Credit Risk Department or the Group Credit Committee.
+
+3. Personal Credit
+   Loans to individual customers aim to meet personal, housing, or consumer needs, while respecting the maximum debt ratio set by regulations and FinSight Bank’s internal limits.
+   Loan approval is based on the borrower’s repayment capacity and income stability.
+   Type of Credit | Purpose | Maximum Duration | Authorized Debt Ratio | Required Guarantees
+   Housing Loan | Purchase or construction of main residence | 20 years | ≤ 40% of net monthly income | Mortgage on financed property + death/disability insurance
+   Consumer Loan | Personal purchases, miscellaneous expenses, household equipment | 5 years | ≤ 35% of net monthly income | Salary domiciliation commitment
+   Auto/Equipment Loan | Vehicle or personal equipment financing | 7 years | ≤ 40% | Vehicle pledge + insurance
+   Education Loan | Tuition or training fees | 3 years | ≤ 30% | Joint or parental guarantee
+   Authorized Overdraft | Temporary cash need | 1 year renewable | ≤ 25% | Proof of regular income and satisfactory banking history
+   Each application must include mandatory supporting documents: ID, proof of income, recent bank statements, and where applicable, quotations or invoices related to the loan purpose.
+   Solvency analysis is based on the internal DSR (Debt Service Ratio) method and review of account behavior over the past twelve months.
+
+4. SME Credit
+   Loans to SMEs aim to support economic activity and business development under a sustainable partnership approach. They are granted under a proportionate risk-based approach, combining financial rating, project viability, and guarantee quality.
+   Type of Credit | Purpose | Maximum Duration | Specific Conditions | Usual Guarantees
+   Working Capital Loan | Operating cycle financing (working capital, inventories) | 2 years renewable | Quarterly cash flow monitoring | Business assets pledge or owner guarantee
+   Investment Loan | Equipment acquisition or business expansion | 10 years | Mandatory profitability study | Mortgage or bank guarantee
+   Seasonal/Campaign Loan | Seasonal cash flow needs | 12 months | Proof of seasonality | Collateral on inventory or trade receivables
+   Cash Facility | Temporary cash flow gaps | 6 months renewable | Prior authorization by Regional Management | Commitment to restore balance within 30 days
+   Factoring / Receivables Mobilization | Financing based on client invoices | 6 months | Verified client contracts | Assignment of receivables duly notified
+   Each SME loan application must include a detailed business plan, certified financial statements for the past three fiscal years, and a cash flow projection. Internal scoring assigns a risk rating from AAA to C, which feeds into the granting decision and IFRS 9 provisioning calculation.
+
+5. Delegation of Powers and Approval
+   Credit decision delegation is based on hierarchy and loan amount.
+   Decision Level | Authorization Limit | Conditions
+   Senior Relationship Manager | Up to 50,000 TND | Subject to satisfactory banking history
+   Branch Manager | Up to 250,000 TND | Real guarantee required
+   Regional Management | Up to 500,000 TND | Validation by Risk Management Department
+   Group Credit Committee | Above 500,000 TND | Collective decision after Risk and Finance review
+   Board of Directors | Exceptional or strategic exposures | Final mandatory approval
+   Any decision taken outside delegated limits constitutes an irregularity that may entail the liability of its author. Approved files must be archived electronically in FinSightDocs/Credit with digital signature and complete traceability.
+
+6. Guarantee Management and Risk Coverage
+   Guarantees are a fundamental component of credit risk management. They must be independently evaluated, periodically reviewed, and proportionate to counterparty risk level.
+   Acceptable securities include real guarantees (mortgages, pledges, deposits), personal guarantees (joint sureties), and bank guarantees.
+   Type of Guarantee | Minimum Coverage Rate | Revaluation | Comments
+   Real Estate Mortgage | 120% of loan amount | Every 2 years | Updated ownership certificate
+   Joint Guarantee | 100% of residual risk | Annual | Solvency verification
+   Deposit Guarantee | 20–50% depending on profile | Permanent | Capped at 50% of loan amount
+   Movable Asset Pledge | 80% of market value | Quarterly | Requires certified inventory
+   External Bank Guarantee (SOTUGAR) | 70–90% depending on category | Contractual monitoring | Applicable to eligible SMEs
+   The Bank ensures that all guarantees are legally enforceable and that documentation is complete, signed, and properly registered.
+
+7. Post-Disbursement Monitoring and Classification
+   Post-loan monitoring is an essential part of risk control. Each credit is subject to periodic review according to risk category and review frequency defined in the Provisioning Policy.
+   Credit Category | Delay / Indicators | Review Frequency | Minimum Provision Rate
+   Performing (Class 0) | No incident | Annual | 1% collective
+   Under Watch (Class 1) | Delay < 30 days | Quarterly | 5%
+   Doubtful (Class 2) | Delay 30–90 days | Monthly | 20%
+   Compromised (Class 3) | Delay > 90 days | Monthly | 50%
+   Unrecoverable (Class 4) | Proven insolvency | Immediate | 100%
+   Behavioral alerts (decline in activity, payment incidents, abnormal withdrawals) are tracked through the FinSight Risk Monitor module, which automatically notifies the Risk Department.
+
+8. Monitoring and Reporting
+   Outstanding amounts, incidents, and performance by segment are consolidated in a monthly report submitted to the Risk Department and the Group Credit Committee.
+   Reports include the following indicators:
+   • Total credit volume by type and region;
+   • Distribution by risk rating and business sector;
+   • Classified loan ratio and provisions made;
+   • Compliance with internal and regulatory limits.
+   This information is integrated into the Quarterly Prudential Report submitted to the Central Bank of Tunisia and into the FinSight Credit Dashboard for General Management.
+
+9. Revision and Entry into Force
+   This instruction is reviewed annually or whenever the regulatory framework changes. Any significant evolution in market conditions, segment risk profile, or prudential limits triggers an immediate update approved by the Group Credit Committee and General Management.
+   It enters into force on January 1, 2025, and its application is mandatory across all FinSight Bank entities.

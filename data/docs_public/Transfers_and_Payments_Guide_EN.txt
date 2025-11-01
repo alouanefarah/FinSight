@@ -1,0 +1,48 @@
+1. Overview
+This guide explains how to perform transfers and payments securely via FinSight Online, FinSight Mobile, or branches. Transactions are designed to be simple, fast, and transparent.
+
+2. Domestic Transfers
+A domestic transfer is a money transfer within Tunisia.
+Type | Description | Execution Time | Fee
+Internal Transfer | Between FinSight accounts | Instant | Free
+Interbank Transfer | To another Tunisian bank | 1 business day | 2 TND
+Standing Order | Recurring payments | As scheduled | Free (setup via Online/Mobile)
+Steps: Log in, select “Transfers”, enter beneficiary details, confirm with OTP.
+
+3. International Transfers (SWIFT / IBAN)
+International transfers allow sending or receiving funds abroad through SWIFT.
+Required: beneficiary name, SWIFT/BIC code, IBAN, payment purpose.
+Fees: Standard 0.15% (min 30 TND, max 300 TND); Express 0.25% (min 50 TND, max 400 TND).
+Processing Time: 1–3 working days depending on destination.
+Currencies: EUR, USD, GBP, and others authorized by the Central Bank of Tunisia.
+
+4. Bill Payments
+Clients can pay utility and service bills online.
+Payable: electricity, water, telecom, taxes, tuition.
+Channels | Availability | Confirmation
+Online | 24/7 | Instant
+Mobile | 24/7 | Instant
+Branch | Business hours | Printed receipt
+
+5. Mobile Transfers and QR Payments
+Operation | Limit | Fee | Validation
+Mobile Transfer (P2P) | 500 TND/day | Free | OTP
+QR Merchant Payment | 2,000 TND/day | 0.5% | Instant confirmation
+
+6. Payment Security
+FinSight applies encryption, OTP authentication, timeouts, and fraud detection.
+Tips: verify beneficiary IBAN, never share OTP, use secure devices and networks.
+
+7. Troubleshooting and Assistance
+Q: What if my transfer is delayed?
+A: Check transfer history; contact support if pending after 48h.
+Q: Can I cancel a transfer?
+A: Only before execution; once processed, it cannot be reversed.
+Q: How do I receive money from abroad?
+A: Provide your IBAN and FinSight SWIFT code: FNSHTNTTXXX.
+
+8. Contact and Support
+Customer Support: +216 71 000 123
+Email: payments@finsightbank.tn
+Website: www.finsightbank.tn
+Mobile App: FinSight Mobile – iOS & Android
