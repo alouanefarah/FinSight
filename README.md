@@ -4,7 +4,8 @@ python -m venv venv
 venv\Scripts\activate
 
 
-pip install sentence-transformers chromadb
+pip install -r requirements.txt
+
 
 
 
@@ -27,3 +28,5 @@ python scripts/build_chroma_bge.py
 
     
 python scripts/rag_retriever.py
+
+
