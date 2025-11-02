@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 FinSight - RAG-Powered Banking Document Retrieval System
 
 <div align="center">
@@ -744,3 +745,37 @@ For questions or support:
 [⭐ Star this repo](https://github.com/alouanefarah/FinSight) | [🍴 Fork](https://github.com/alouanefarah/FinSight/fork) | [📖 Documentation](https://github.com/alouanefarah/FinSight/wiki)
 
 </div>
+=======
+# FinSight
+python -m venv venv 
+
+venv\Scripts\activate
+
+
+pip install -r requirements.txt
+
+
+
+
+ 1. Chunk the documents first
+
+
+python scripts/chunk_documents.py
+
+ 3. Create embeddings
+
+    
+python scripts/embed_bge_base.py
+
+ 4. Build the Chroma database
+    
+
+python scripts/build_chroma_bge.py
+
+ 5. Finally, run the retriever to test
+
+    
+python scripts/rag_retriever.py
+
+
+>>>>>>> e3805740a2ccc65e18f73442241106a441adbc39

@@ -9,6 +9,7 @@ from tqdm import tqdm
 import os, json, torch
 
 import ast
+
 # --- Paths ---
 CHUNKS_DIR = "data/chunks/"
 OUT_PATH = "docs_embeddings_bge_base.parquet"
@@ -57,6 +58,7 @@ embeddings = model.encode(
 df["embedding"] = [emb.tolist() for emb in embeddings]
 df.to_parquet(OUT_PATH, index=False)
 print(f"✅ Saved embeddings to {OUT_PATH}")
+
 
 
 
