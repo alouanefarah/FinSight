@@ -30,13 +30,13 @@ MODEL_NAME = "BAAI/bge-base-en-v1.5"
 # INITIALIZATION
 # ================================================
 try:
-    print("🔹 Initializing retriever...")
+    print("[*] Initializing retriever...")
     client = chromadb.PersistentClient(path=CHROMA_PATH)
     collection = client.get_collection(name=COLLECTION_NAME)
     model = SentenceTransformer(MODEL_NAME)
-    print("✅ Retriever initialized successfully.\n")
+    print("[OK] Retriever initialized successfully.\n")
 except Exception as e:
-    print(f"❌ Initialization failed: {e}")
+    print(f"[ERROR] Initialization failed: {e}")
     collection = None
     model = None
 
@@ -91,14 +91,14 @@ def retrieve_docs(query: str, top_k: int = 3) -> List[Dict]:
 def display_results(results: List[Dict]):
     """Pretty-print retrieved results for debugging."""
     if not results:
-        print("❌ No results found.")
+        print("[!] No results found.")
         return
 
     for i, r in enumerate(results, 1):
-        print(f"\n📘 Result {i}:")
-        print(f"   • Title: {r['title']} ({r['doc_id']})")
-        print(f"   • Similarity score: {r['score']:.4f}")
-        print(f"   • Snippet: {r['text'][:300]}...\n")
+        print(f"\n[Result {i}]")
+        print(f"   - Title: {r['title']} ({r['doc_id']})")
+        print(f"   - Similarity score: {r['score']:.4f}")
+        print(f"   - Snippet: {r['text'][:300]}...\n")
 
 
 # ================================================
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
     for q in test_queries:
         print("\n" + "=" * 70)
-        print(f"🔹 Query: {q}")
+        print(f"[Query]: {q}")
         print("=" * 70)
 
         results = retrieve_docs(q, top_k=3)

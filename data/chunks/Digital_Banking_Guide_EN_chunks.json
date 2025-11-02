@@ -7,7 +7,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\n1. Overview\nFinSight Online and FinSight Mobile give you secure access to your accounts 24/7 — anywhere, anytime.\nManage your finances, pay bills, transfer funds, and control your cards instantly from your computer or smartphone.",
     "token_count": 49,
-    "created_at": "2025-10-29T16:57:46.338758"
+    "created_at": "2025-11-01T15:49:50.358499"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -17,7 +17,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\n2. Access and Login\nFinSight Online (Web Portal):\n1. Visit www.finsightbank.tn and click “Client Login”.\n2. Enter your Client ID and password provided by the Bank.\n3. Validate the login with the One-Time Code (OTP) sent to your registered phone.",
     "token_count": 71,
-    "created_at": "2025-10-29T16:57:46.338758"
+    "created_at": "2025-11-01T15:49:50.359465"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -27,7 +27,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\nFinSight Mobile (App):\n1. Download “FinSight Mobile” from the App Store or Google Play.\n2. Log in using the same credentials as FinSight Online.\n3. Activate biometric login for future access (optional).",
     "token_count": 53,
-    "created_at": "2025-10-29T16:57:46.339906"
+    "created_at": "2025-11-01T15:49:50.359465"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -37,7 +37,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\nSecurity Tip: Never share your login details. FinSight will never ask for your PIN or password by phone or email.",
     "token_count": 28,
-    "created_at": "2025-10-29T16:57:46.339906"
+    "created_at": "2025-11-01T15:49:50.360441"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -85,7 +85,7 @@
       }
     ],
     "token_count": 144,
-    "created_at": "2025-10-29T16:57:46.339906"
+    "created_at": "2025-11-01T15:49:50.360441"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -95,7 +95,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\n4. Security and Data Protection\nFinSight uses encryption, multi-factor authentication, and real-time fraud detection.\nSessions disconnect after 5 minutes of inactivity.\nAll data are hosted on secure servers compliant with INPDP and GDPR.",
     "token_count": 54,
-    "created_at": "2025-10-29T16:57:46.339906"
+    "created_at": "2025-11-01T15:49:50.360441"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -105,7 +105,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\nBest Practices:\n• Keep your phone software up to date.\n• Avoid public Wi-Fi for financial operations.\n• Immediately block your account in case of suspicious activity.",
     "token_count": 36,
-    "created_at": "2025-10-29T16:57:46.341408"
+    "created_at": "2025-11-01T15:49:50.361502"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -142,7 +142,7 @@
       }
     ],
     "token_count": 97,
-    "created_at": "2025-10-29T16:57:46.341408"
+    "created_at": "2025-11-01T15:49:50.361502"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -152,7 +152,7 @@
     "title": "Digital Banking Guide En",
     "text": "None\n6. Frequently Asked Questions\nQ: What if I forget my password?\nA: Click “Forgot Password” on the login page. A reset code will be sent to your registered number.\nQ: Can I download my statements?\nA: Yes. You can generate them in PDF format under “Statements”.\nQ: How do I block my card online?\nA: Go to “Card Management” → “Block Card”. The operation is instant.\nQ: How do I update my phone number?\nA: Visit your branch or contact customer support for verification.",
     "token_count": 116,
-    "created_at": "2025-10-29T16:57:46.341916"
+    "created_at": "2025-11-01T15:49:50.361502"
   },
   {
     "doc_id": "Digital_Banking_Guide_EN",
@@ -162,6 +162,6 @@
     "title": "Digital Banking Guide En",
     "text": "None\n7. Contact and Support\nCall Center: +216 71 000 123\nEmail: support@finsightbank.tn\nWebsite: www.finsightbank.tn\nMobile App: FinSight Mobile – iOS & Android",
     "token_count": 44,
-    "created_at": "2025-10-29T16:57:46.341916"
+    "created_at": "2025-11-01T15:49:50.362504"
   }
 ]
