@@ -5,9 +5,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\nInformation Security and Data Protection Policy\nVersion 2025 – Confidential Internal Document",
+    "text": "None\nInformation Security and Data Protection Policy Version 2025 – Confidential Internal Document",
     "token_count": 16,
-    "created_at": "2025-11-01T15:50:46.216910"
+    "created_at": "2025-11-02T15:37:05.216707"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -15,9 +15,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\nPreamble\nThis Information Security and Data Protection Policy defines the comprehensive framework adopted by FinSight Bank to ensure the confidentiality, integrity, availability, and traceability of the information it holds or processes.\nIts purpose is to protect information systems and personal data from any form of alteration, loss, unauthorized access, or fraudulent use. The policy complies with Tunisian Law No. 2004-63 on personal data protection, the requirements of the National Authority for the Protection of Personal Data (INPDP), as well as the principles of the EU General Data Protection Regulation (GDPR) and international standards ISO/IEC 27001 and ISO 27701.\nIt constitutes a key pillar of FinSight Bank’s governance system, ensuring customer trust, regulatory compliance, and operational resilience in an ever-evolving digital environment.",
+    "text": "None\nPreamble This Information Security and Data Protection Policy defines the comprehensive framework adopted by FinSight Bank to ensure the confidentiality, integrity, availability, and traceability of the information it holds or processes. Its purpose is to protect information systems and personal data from any form of alteration, loss, unauthorized access, or fraudulent use. The policy complies with Tunisian Law No. 2004-63 on personal data protection, the requirements of the National Authority for the Protection of Personal Data (INPDP), as well as the principles of the EU General Data Protection Regulation (GDPR) and international standards ISO/IEC 27001 and ISO 27701. It constitutes a key pillar of FinSight Bank’s governance system, ensuring customer trust, regulatory compliance, and operational resilience in an ever-evolving digital environment.",
     "token_count": 167,
-    "created_at": "2025-11-01T15:50:46.217910"
+    "created_at": "2025-11-02T15:37:05.247718"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -25,9 +25,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\n1. Objectives and Scope\n   The purpose of this policy is to protect FinSight Bank’s information assets — whether physical, digital, organizational, or human — from any risk of compromise.\n   It defines the principles, responsibilities, and controls required to ensure rigorous management of data and information systems while respecting the rights of data subjects.\n   Scope of application:\n   • All information held or processed by the Bank, regardless of medium (digital, paper, audio, visual);\n   • All employees, contractors, and partners with access to such information;\n   • All systems, infrastructures, applications, and networks used within FinSight Bank’s activities.\n   No processing of personal or confidential data may be conducted outside the rules established by this policy and its operational annexes.",
+    "text": "None\n1. Objectives and Scope The purpose of this policy is to protect FinSight Bank’s information assets — whether physical, digital, organizational, or human — from any risk of compromise. It defines the principles, responsibilities, and controls required to ensure rigorous management of data and information systems while respecting the rights of data subjects. Scope of application: • All information held or processed by the Bank, regardless of medium (digital, paper, audio, visual); • All employees, contractors, and partners with access to such information; • All systems, infrastructures, applications, and networks used within FinSight Bank’s activities. No processing of personal or confidential data may be conducted outside the rules established by this policy and its operational annexes.",
     "token_count": 151,
-    "created_at": "2025-11-01T15:50:46.219554"
+    "created_at": "2025-11-02T15:37:05.257712"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -60,7 +60,7 @@
       }
     ],
     "token_count": 122,
-    "created_at": "2025-11-01T15:50:46.220994"
+    "created_at": "2025-11-02T15:37:05.273449"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -100,7 +100,7 @@
       }
     ],
     "token_count": 161,
-    "created_at": "2025-11-01T15:50:46.221706"
+    "created_at": "2025-11-02T15:37:05.274242"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -134,7 +134,7 @@
       }
     ],
     "token_count": 153,
-    "created_at": "2025-11-01T15:50:46.222715"
+    "created_at": "2025-11-02T15:37:05.274242"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -142,9 +142,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\n5. Personal Data Protection\n   FinSight Bank processes personal data lawfully, fairly, and transparently. Each processing activity is declared or notified to the INPDP in accordance with Tunisian law.\n   Data collection is limited to what is strictly necessary, retained for a defined period, and secured according to its sensitivity level. Data subjects have the following rights:\n   • Right of access to personal data;\n   • Right to rectification of inaccurate data;\n   • Right to object to processing under legal conditions;\n   • Right to erasure and data portability, where applicable.\n   Requests are managed by the DPO, who maintains records and ensures compliance with response deadlines.",
+    "text": "None\n5. Personal Data Protection FinSight Bank processes personal data lawfully, fairly, and transparently. Each processing activity is declared or notified to the INPDP in accordance with Tunisian law. Data collection is limited to what is strictly necessary, retained for a defined period, and secured according to its sensitivity level. Data subjects have the following rights: • Right of access to personal data; • Right to rectification of inaccurate data; • Right to object to processing under legal conditions; • Right to erasure and data portability, where applicable. Requests are managed by the DPO, who maintains records and ensures compliance with response deadlines.",
     "token_count": 132,
-    "created_at": "2025-11-01T15:50:46.223714"
+    "created_at": "2025-11-02T15:37:05.285171"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -177,7 +177,7 @@
       }
     ],
     "token_count": 127,
-    "created_at": "2025-11-01T15:50:46.224713"
+    "created_at": "2025-11-02T15:37:05.285171"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -185,9 +185,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\n7. Awareness and Security Culture\n   Security culture is a key component of FinSight Bank’s resilience. Employees must adopt responsible behavior and complete mandatory cybersecurity and data protection training organized by the IT Security and HR Departments.\n   Training topics include password management, phishing prevention, and digital hygiene. Internal awareness campaigns, vulnerability assessments, and simulated attacks are regularly conducted to reinforce vigilance.\n   Serious or repeated violations of security rules may lead to disciplinary measures under internal regulations.",
+    "text": "None\n7. Awareness and Security Culture Security culture is a key component of FinSight Bank’s resilience. Employees must adopt responsible behavior and complete mandatory cybersecurity and data protection training organized by the IT Security and HR Departments. Training topics include password management, phishing prevention, and digital hygiene. Internal awareness campaigns, vulnerability assessments, and simulated attacks are regularly conducted to reinforce vigilance. Serious or repeated violations of security rules may lead to disciplinary measures under internal regulations.",
     "token_count": 99,
-    "created_at": "2025-11-01T15:50:46.225726"
+    "created_at": "2025-11-02T15:37:05.300310"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -195,9 +195,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\n8. Audits, Controls, and Continuous Improvement\n   Information security is continuously monitored and audited. The IT Security Department performs quarterly technical reviews, and Internal Audit conducts annual evaluations of overall effectiveness.\n   Audit results are submitted to the Risk Committee and followed by corrective action plans with defined deadlines. FinSight Bank applies the continuous improvement principle (PDCA – Plan, Do, Check, Act) to adapt to evolving threats and regulations.\n   Major system or regulatory changes trigger a review of this policy.",
+    "text": "None\n8. Audits, Controls, and Continuous Improvement Information security is continuously monitored and audited. The IT Security Department performs quarterly technical reviews, and Internal Audit conducts annual evaluations of overall effectiveness. Audit results are submitted to the Risk Committee and followed by corrective action plans with defined deadlines. FinSight Bank applies the continuous improvement principle (PDCA – Plan, Do, Check, Act) to adapt to evolving threats and regulations. Major system or regulatory changes trigger a review of this policy.",
     "token_count": 102,
-    "created_at": "2025-11-01T15:50:46.226956"
+    "created_at": "2025-11-02T15:37:05.316368"
   },
   {
     "doc_id": "Information_Security_and_Data_Protection_Policy_EN",
@@ -205,8 +205,8 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Information Security And Data Protection Policy En",
-    "text": "None\n9. Review and Entry into Force\n   This policy is reviewed annually or following any major incident, regulatory inspection, or technological development. Updates are prepared jointly by the CISO, DPO, and General Management, then validated by the Risk and Compliance Committee.\n   It enters into force on January 1, 2025, and is mandatory for all FinSight Bank staff, subsidiaries, and partners.",
+    "text": "None\n9. Review and Entry into Force This policy is reviewed annually or following any major incident, regulatory inspection, or technological development. Updates are prepared jointly by the CISO, DPO, and General Management, then validated by the Risk and Compliance Committee. It enters into force on January 1, 2025, and is mandatory for all FinSight Bank staff, subsidiaries, and partners.",
     "token_count": 80,
-    "created_at": "2025-11-01T15:50:46.227263"
+    "created_at": "2025-11-02T15:37:05.316368"
   }
 ]

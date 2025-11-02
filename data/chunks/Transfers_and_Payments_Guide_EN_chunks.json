@@ -5,9 +5,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Transfers And Payments Guide En",
-    "text": "None\n1. Overview\nThis guide explains how to perform transfers and payments securely via FinSight Online, FinSight Mobile, or branches. Transactions are designed to be simple, fast, and transparent.",
+    "text": "None\n1. Overview This guide explains how to perform transfers and payments securely via FinSight Online, FinSight Mobile, or branches. Transactions are designed to be simple, fast, and transparent.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.426461"
+    "created_at": "2025-11-02T15:36:59.422846"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -37,7 +37,7 @@
       }
     ],
     "token_count": 77,
-    "created_at": "2025-11-01T15:49:50.426461"
+    "created_at": "2025-11-02T15:36:59.423832"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -45,9 +45,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Transfers And Payments Guide En",
-    "text": "None\n3. International Transfers (SWIFT / IBAN)\nInternational transfers allow sending or receiving funds abroad through SWIFT.\nRequired: beneficiary name, SWIFT/BIC code, IBAN, payment purpose.\nFees: Standard 0.15% (min 30 TND, max 300 TND); Express 0.25% (min 50 TND, max 400 TND).\nProcessing Time: 1–3 working days depending on destination.\nCurrencies: EUR, USD, GBP, and others authorized by the Central Bank of Tunisia.",
+    "text": "None\n3. International Transfers (SWIFT / IBAN) International transfers allow sending or receiving funds abroad through SWIFT. Required: beneficiary name, SWIFT/BIC code, IBAN, payment purpose. Fees: Standard 0.15% (min 30 TND, max 300 TND); Express 0.25% (min 50 TND, max 400 TND). Processing Time: 1–3 working days depending on destination. Currencies: EUR, USD, GBP, and others authorized by the Central Bank of Tunisia.",
     "token_count": 114,
-    "created_at": "2025-11-01T15:49:50.427502"
+    "created_at": "2025-11-02T15:36:59.433146"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -76,7 +76,7 @@
       }
     ],
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.427502"
+    "created_at": "2025-11-02T15:36:59.433146"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -102,7 +102,7 @@
       }
     ],
     "token_count": 58,
-    "created_at": "2025-11-01T15:49:50.427502"
+    "created_at": "2025-11-02T15:36:59.434148"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -110,9 +110,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Transfers And Payments Guide En",
-    "text": "None\n6. Payment Security\nFinSight applies encryption, OTP authentication, timeouts, and fraud detection.\nTips: verify beneficiary IBAN, never share OTP, use secure devices and networks.",
+    "text": "None\n6. Payment Security FinSight applies encryption, OTP authentication, timeouts, and fraud detection. Tips: verify beneficiary IBAN, never share OTP, use secure devices and networks.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.427502"
+    "created_at": "2025-11-02T15:36:59.436145"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -120,9 +120,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Transfers And Payments Guide En",
-    "text": "None\n7. Troubleshooting and Assistance\nQ: What if my transfer is delayed?\nA: Check transfer history; contact support if pending after 48h.\nQ: Can I cancel a transfer?\nA: Only before execution; once processed, it cannot be reversed.\nQ: How do I receive money from abroad?\nA: Provide your IBAN and FinSight SWIFT code: FNSHTNTTXXX.",
+    "text": "None\n7. Troubleshooting and Assistance Q: What if my transfer is delayed? A: Check transfer history; contact support if pending after 48h. Q: Can I cancel a transfer? A: Only before execution; once processed, it cannot be reversed. Q: How do I receive money from abroad? A: Provide your IBAN and FinSight SWIFT code: FNSHTNTTXXX.",
     "token_count": 85,
-    "created_at": "2025-11-01T15:49:50.428503"
+    "created_at": "2025-11-02T15:36:59.442051"
   },
   {
     "doc_id": "Transfers_and_Payments_Guide_EN",
@@ -130,8 +130,8 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Transfers And Payments Guide En",
-    "text": "None\n8. Contact and Support\nCustomer Support: +216 71 000 123\nEmail: payments@finsightbank.tn\nWebsite: www.finsightbank.tn\nMobile App: FinSight Mobile – iOS & Android",
+    "text": "None\n8. Contact and Support Customer Support: +216 71 000 123 Email: payments@finsightbank.tn Website: www.finsightbank.tn Mobile App: FinSight Mobile – iOS & Android",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.428825"
+    "created_at": "2025-11-02T15:36:59.444648"
   }
 ]

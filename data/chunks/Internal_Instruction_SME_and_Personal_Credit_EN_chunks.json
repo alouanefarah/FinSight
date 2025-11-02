@@ -7,7 +7,7 @@
     "title": "Internal Instruction Sme And Personal Credit En",
     "text": "None\nInternal Instruction – SME and Personal Credit",
     "token_count": 11,
-    "created_at": "2025-11-01T15:50:46.247602"
+    "created_at": "2025-11-02T15:37:05.415950"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -15,9 +15,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Internal Instruction Sme And Personal Credit En",
-    "text": "None\n1. Preamble\n   This Internal Instruction – SME and Personal Credit establishes the rules, procedures, and prudential criteria governing the granting, management, and monitoring of financing provided to individuals and small and medium-sized enterprises (SMEs) by FinSight Bank.\n   It complements the General Credit Policy 2025 and specifies the detailed application methods by customer segment, in compliance with the requirements of the Central Bank of Tunisia (Circulars No. 91-24, 2013-21, and 2021-01).\n   The objective of this instruction is to ensure balanced portfolio growth while controlling counterparty risks and promoting responsible access to financing. It defines eligibility criteria, granting conditions, delegation limits, and requirements regarding guarantees, with the aim of standardizing practices across the FinSight network.",
+    "text": "None\n1. Preamble This Internal Instruction – SME and Personal Credit establishes the rules, procedures, and prudential criteria governing the granting, management, and monitoring of financing provided to individuals and small and medium-sized enterprises (SMEs) by FinSight Bank. It complements the General Credit Policy 2025 and specifies the detailed application methods by customer segment, in compliance with the requirements of the Central Bank of Tunisia (Circulars No. 91-24, 2013-21, and 2021-01). The objective of this instruction is to ensure balanced portfolio growth while controlling counterparty risks and promoting responsible access to financing. It defines eligibility criteria, granting conditions, delegation limits, and requirements regarding guarantees, with the aim of standardizing practices across the FinSight network.",
     "token_count": 158,
-    "created_at": "2025-11-01T15:50:46.248188"
+    "created_at": "2025-11-02T15:37:05.452415"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -25,9 +25,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Internal Instruction Sme And Personal Credit En",
-    "text": "None\n2. General Principles\n   FinSight Bank bases its credit policy on prudence, fairness, and transparency. Each credit decision must be supported by an objective analysis of repayment capacity, guarantee quality, and regulatory compliance.\n   Loans are granted exclusively to identified clients, assessed according to the KYC (Know Your Customer) procedure, and with a stable and verifiable financial situation.\n   Financial and behavioral analyses must be carried out using internal scoring tools, notably the FinSight Scoring® model, which integrates quantitative criteria (income, indebtedness, banking history) and qualitative factors (business sector, governance, payment behavior).\n   No exception to granting rules may be made without the express approval of the Credit Risk Department or the Group Credit Committee.",
+    "text": "None\n2. General Principles FinSight Bank bases its credit policy on prudence, fairness, and transparency. Each credit decision must be supported by an objective analysis of repayment capacity, guarantee quality, and regulatory compliance. Loans are granted exclusively to identified clients, assessed according to the KYC (Know Your Customer) procedure, and with a stable and verifiable financial situation. Financial and behavioral analyses must be carried out using internal scoring tools, notably the FinSight Scoring® model, which integrates quantitative criteria (income, indebtedness, banking history) and qualitative factors (business sector, governance, payment behavior). No exception to granting rules may be made without the express approval of the Credit Risk Department or the Group Credit Committee.",
     "token_count": 153,
-    "created_at": "2025-11-01T15:50:46.248188"
+    "created_at": "2025-11-02T15:37:05.475406"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -66,7 +66,7 @@
       }
     ],
     "token_count": 215,
-    "created_at": "2025-11-01T15:50:46.250195"
+    "created_at": "2025-11-02T15:37:05.475406"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -105,7 +105,7 @@
       }
     ],
     "token_count": 220,
-    "created_at": "2025-11-01T15:50:46.250195"
+    "created_at": "2025-11-02T15:37:05.475406"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -142,7 +142,7 @@
       }
     ],
     "token_count": 128,
-    "created_at": "2025-11-01T15:50:46.252202"
+    "created_at": "2025-11-02T15:37:05.475406"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -180,7 +180,7 @@
       }
     ],
     "token_count": 172,
-    "created_at": "2025-11-01T15:50:46.253206"
+    "created_at": "2025-11-02T15:37:05.475406"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -218,7 +218,7 @@
       }
     ],
     "token_count": 161,
-    "created_at": "2025-11-01T15:50:46.254250"
+    "created_at": "2025-11-02T15:37:05.475406"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -226,9 +226,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Internal Instruction Sme And Personal Credit En",
-    "text": "None\n8. Monitoring and Reporting\n   Outstanding amounts, incidents, and performance by segment are consolidated in a monthly report submitted to the Risk Department and the Group Credit Committee.\n   Reports include the following indicators:\n   • Total credit volume by type and region;\n   • Distribution by risk rating and business sector;\n   • Classified loan ratio and provisions made;\n   • Compliance with internal and regulatory limits.\n   This information is integrated into the Quarterly Prudential Report submitted to the Central Bank of Tunisia and into the FinSight Credit Dashboard for General Management.",
+    "text": "None\n8. Monitoring and Reporting Outstanding amounts, incidents, and performance by segment are consolidated in a monthly report submitted to the Risk Department and the Group Credit Committee. Reports include the following indicators: • Total credit volume by type and region; • Distribution by risk rating and business sector; • Classified loan ratio and provisions made; • Compliance with internal and regulatory limits. This information is integrated into the Quarterly Prudential Report submitted to the Central Bank of Tunisia and into the FinSight Credit Dashboard for General Management.",
     "token_count": 103,
-    "created_at": "2025-11-01T15:50:46.254603"
+    "created_at": "2025-11-02T15:37:05.491165"
   },
   {
     "doc_id": "Internal_Instruction_SME_and_Personal_Credit_EN",
@@ -236,8 +236,8 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Internal Instruction Sme And Personal Credit En",
-    "text": "None\n9. Revision and Entry into Force\n   This instruction is reviewed annually or whenever the regulatory framework changes. Any significant evolution in market conditions, segment risk profile, or prudential limits triggers an immediate update approved by the Group Credit Committee and General Management.\n   It enters into force on January 1, 2025, and its application is mandatory across all FinSight Bank entities.",
+    "text": "None\n9. Revision and Entry into Force This instruction is reviewed annually or whenever the regulatory framework changes. Any significant evolution in market conditions, segment risk profile, or prudential limits triggers an immediate update approved by the Group Credit Committee and General Management. It enters into force on January 1, 2025, and its application is mandatory across all FinSight Bank entities.",
     "token_count": 75,
-    "created_at": "2025-11-01T15:50:46.255019"
+    "created_at": "2025-11-02T15:37:05.491165"
   }
 ]

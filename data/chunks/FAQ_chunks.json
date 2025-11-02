@@ -5,9 +5,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: How can I check my account balance?\nA1: You can check your account balance by logging into our online banking portal or mobile app. You can also check your balance at an ATM.",
+    "text": "None\nQ1: How can I check my account balance? A1: You can check your account balance by logging into our online banking portal or mobile app. You can also check your balance at an ATM.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.366301"
+    "created_at": "2025-11-02T15:36:58.960066"
   },
   {
     "doc_id": "FAQ",
@@ -15,9 +15,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: How do I transfer money between accounts?\nA2: Log into your online banking account or mobile app, select 'Transfer Funds,' choose the accounts, and enter the amount you wish to transfer.",
+    "text": "None\nQ2: How do I transfer money between accounts? A2: Log into your online banking account or mobile app, select 'Transfer Funds,' choose the accounts, and enter the amount you wish to transfer.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.367819"
+    "created_at": "2025-11-02T15:36:58.963066"
   },
   {
     "doc_id": "FAQ",
@@ -25,9 +25,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: Can I set up direct deposit for my paycheck?\nA3: Yes, you can set up direct deposit by providing your employer with your account number and our bank's routing number.",
+    "text": "None\nQ3: Can I set up direct deposit for my paycheck? A3: Yes, you can set up direct deposit by providing your employer with your account number and our bank's routing number.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.367819"
+    "created_at": "2025-11-02T15:36:58.963066"
   },
   {
     "doc_id": "FAQ",
@@ -35,9 +35,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: Can I update my personal information online?\nA4: Yes, you can update your personal information such as address or phone number by logging into your online banking account and accessing the 'Profile' section.",
+    "text": "None\nQ4: Can I update my personal information online? A4: Yes, you can update your personal information such as address or phone number by logging into your online banking account and accessing the 'Profile' section.",
     "token_count": 47,
-    "created_at": "2025-11-01T15:49:50.367819"
+    "created_at": "2025-11-02T15:36:58.963066"
   },
   {
     "doc_id": "FAQ",
@@ -45,9 +45,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ5: How can I request a bank statement?\nA5: You can request a bank statement through online banking, our mobile app, or by contacting customer service to have a statement mailed to you.",
+    "text": "None\nQ5: How can I request a bank statement? A5: You can request a bank statement through online banking, our mobile app, or by contacting customer service to have a statement mailed to you.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.367819"
+    "created_at": "2025-11-02T15:36:58.963066"
   },
   {
     "doc_id": "FAQ",
@@ -55,9 +55,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ6: Do you offer mobile check deposit?\nA6: Yes, we offer mobile check deposit through our banking app. Simply take a photo of the check and follow the instructions in the app.",
+    "text": "None\nQ6: Do you offer mobile check deposit? A6: Yes, we offer mobile check deposit through our banking app. Simply take a photo of the check and follow the instructions in the app.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.368887"
+    "created_at": "2025-11-02T15:36:58.963066"
   },
   {
     "doc_id": "FAQ",
@@ -65,9 +65,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ7: What is your policy on account minimum balances?\nA7: Our policy on minimum balances varies by account type. Please review the account details on our website or contact customer service for specifics.",
+    "text": "None\nQ7: What is your policy on account minimum balances? A7: Our policy on minimum balances varies by account type. Please review the account details on our website or contact customer service for specifics.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.368887"
+    "created_at": "2025-11-02T15:36:58.963066"
   },
   {
     "doc_id": "FAQ",
@@ -75,9 +75,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ8: How do I update my account preferences?\nA8: Update your account preferences by logging into your online banking account and navigating to the 'Settings' or 'Preferences' section.",
+    "text": "None\nQ8: How do I update my account preferences? A8: Update your account preferences by logging into your online banking account and navigating to the 'Settings' or 'Preferences' section.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.368887"
+    "created_at": "2025-11-02T15:36:58.978833"
   },
   {
     "doc_id": "FAQ",
@@ -85,9 +85,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ9: How can I enroll in e-statements?\nA9: To enroll in e-statements, log into your online banking account and select the 'Statements' section to opt-in for electronic delivery.",
+    "text": "None\nQ9: How can I enroll in e-statements? A9: To enroll in e-statements, log into your online banking account and select the 'Statements' section to opt-in for electronic delivery.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.368887"
+    "created_at": "2025-11-02T15:36:58.980926"
   },
   {
     "doc_id": "FAQ",
@@ -95,9 +95,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ10: How do I change my contact information?\nA10: To change your contact information, log into your online banking account and update your details in the 'Profile' section.",
+    "text": "None\nQ10: How do I change my contact information? A10: To change your contact information, log into your online banking account and update your details in the 'Profile' section.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.369884"
+    "created_at": "2025-11-02T15:36:58.983767"
   },
   {
     "doc_id": "FAQ",
@@ -105,9 +105,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ11: What is your policy on wire transfers?\nA11: Our policy on wire transfers includes fees and limits, which can be found on our website or by contacting customer service for detailed information.",
+    "text": "None\nQ11: What is your policy on wire transfers? A11: Our policy on wire transfers includes fees and limits, which can be found on our website or by contacting customer service for detailed information.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.369884"
+    "created_at": "2025-11-02T15:36:58.984642"
   },
   {
     "doc_id": "FAQ",
@@ -115,9 +115,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ12: How do I access my account statements online?\nA12: Log into your online banking account and navigate to the 'Statements' section to view and download your account statements.",
+    "text": "None\nQ12: How do I access my account statements online? A12: Log into your online banking account and navigate to the 'Statements' section to view and download your account statements.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.369884"
+    "created_at": "2025-11-02T15:36:58.984642"
   },
   {
     "doc_id": "FAQ",
@@ -125,9 +125,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ13: What are your fees for international wire transfers?\nA13: Fees for international wire transfers can be found on our fee schedule on our website or by contacting customer service.",
+    "text": "None\nQ13: What are your fees for international wire transfers? A13: Fees for international wire transfers can be found on our fee schedule on our website or by contacting customer service.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.369884"
+    "created_at": "2025-11-02T15:36:58.990256"
   },
   {
     "doc_id": "FAQ",
@@ -135,9 +135,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ14: How can I get a loan statement?\nA14: Request a loan statement by logging into your online banking account, contacting customer service, or by visiting a branch.",
+    "text": "None\nQ14: How can I get a loan statement? A14: Request a loan statement by logging into your online banking account, contacting customer service, or by visiting a branch.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:58.990256"
   },
   {
     "doc_id": "FAQ",
@@ -145,9 +145,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ15: How can I update my email address?\nA15: Update your email address by logging into your online banking account and accessing the 'Profile' or 'Contact Information' section.",
+    "text": "None\nQ15: How can I update my email address? A15: Update your email address by logging into your online banking account and accessing the 'Profile' or 'Contact Information' section.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:58.990256"
   },
   {
     "doc_id": "FAQ",
@@ -155,9 +155,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ16: How can I verify my account information?\nA16: Verify your account information by logging into your online banking account or contacting customer service for assistance.",
+    "text": "None\nQ16: How can I verify my account information? A16: Verify your account information by logging into your online banking account or contacting customer service for assistance.",
     "token_count": 36,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:58.997713"
   },
   {
     "doc_id": "FAQ",
@@ -165,9 +165,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ17: Can I transfer money internationally?\nA17: Yes, you can transfer money internationally. Check our website or contact customer service for details on international transfer options and fees.",
+    "text": "None\nQ17: Can I transfer money internationally? A17: Yes, you can transfer money internationally. Check our website or contact customer service for details on international transfer options and fees.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:58.999711"
   },
   {
     "doc_id": "FAQ",
@@ -175,9 +175,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ18: How do I update my mailing address?\nA18: Update your mailing address by logging into your online banking account or contacting customer service to update your records.",
+    "text": "None\nQ18: How do I update my mailing address? A18: Update your mailing address by logging into your online banking account or contacting customer service to update your records.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.001711"
   },
   {
     "doc_id": "FAQ",
@@ -185,9 +185,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ19: How do I set up an automatic transfer between accounts?\nA19: Set up an automatic transfer by logging into your online banking account, selecting 'Transfer Funds,' and scheduling the transfers.",
+    "text": "None\nQ19: How do I set up an automatic transfer between accounts? A19: Set up an automatic transfer by logging into your online banking account, selecting 'Transfer Funds,' and scheduling the transfers.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.004994"
   },
   {
     "doc_id": "FAQ",
@@ -195,9 +195,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ20: Can I set up a recurring transfer between my accounts?\nA20: Yes, you can set up a recurring transfer by logging into your online banking account and scheduling the transfer under 'Transfer Funds.'",
+    "text": "None\nQ20: Can I set up a recurring transfer between my accounts? A20: Yes, you can set up a recurring transfer by logging into your online banking account and scheduling the transfer under 'Transfer Funds.'",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.006994"
   },
   {
     "doc_id": "FAQ",
@@ -205,9 +205,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ21: What are your policies on account minimum balances?\nA21: Account minimum balance requirements are detailed in our account terms and conditions. Review the information on our website or contact customer service.",
+    "text": "None\nQ21: What are your policies on account minimum balances? A21: Account minimum balance requirements are detailed in our account terms and conditions. Review the information on our website or contact customer service.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.009993"
   },
   {
     "doc_id": "FAQ",
@@ -215,9 +215,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ22: How can I access my account statements?\nA22: Access your account statements by logging into your online banking account and navigating to the 'Statements' section.",
+    "text": "None\nQ22: How can I access my account statements? A22: Access your account statements by logging into your online banking account and navigating to the 'Statements' section.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.010994"
   },
   {
     "doc_id": "FAQ",
@@ -225,9 +225,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ23: How do I set up a new direct deposit?\nA23: Set up a new direct deposit by providing your employer with your bank account details and instructions or by configuring it through your online banking account.",
+    "text": "None\nQ23: How do I set up a new direct deposit? A23: Set up a new direct deposit by providing your employer with your bank account details and instructions or by configuring it through your online banking account.",
     "token_count": 49,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.010994"
   },
   {
     "doc_id": "FAQ",
@@ -235,9 +235,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ24: Can I get help with understanding my account statement?\nA24: Yes, you can get help with understanding your account statement by contacting customer service for clarification on any charges or details.",
+    "text": "None\nQ24: Can I get help with understanding my account statement? A24: Yes, you can get help with understanding your account statement by contacting customer service for clarification on any charges or details.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.010994"
   },
   {
     "doc_id": "FAQ",
@@ -245,9 +245,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: How can I open a new bank account?\nA1: To open a new bank account, visit our website and click on 'Open Account' or visit any of our branches with your identification documents.",
+    "text": "None\nQ1: How can I open a new bank account? A1: To open a new bank account, visit our website and click on 'Open Account' or visit any of our branches with your identification documents.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.010994"
   },
   {
     "doc_id": "FAQ",
@@ -255,9 +255,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: What do I need to provide to open a bank account?\nA2: You will need to provide a valid ID, proof of address, and your Social Security Number or equivalent identification number.",
+    "text": "None\nQ2: What do I need to provide to open a bank account? A2: You will need to provide a valid ID, proof of address, and your Social Security Number or equivalent identification number.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.010994"
   },
   {
     "doc_id": "FAQ",
@@ -265,9 +265,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: How do I close my bank account?\nA3: To close your bank account, visit a branch with your ID and any remaining checks or cards. Alternatively, you can request account closure through online banking.",
+    "text": "None\nQ3: How do I close my bank account? A3: To close your bank account, visit a branch with your ID and any remaining checks or cards. Alternatively, you can request account closure through online banking.",
     "token_count": 47,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.010994"
   },
   {
     "doc_id": "FAQ",
@@ -275,9 +275,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: How do I close my account?\nA4: To close your account, contact customer service or visit a branch to complete the account closure process.",
+    "text": "None\nQ4: How do I close my account? A4: To close your account, contact customer service or visit a branch to complete the account closure process.",
     "token_count": 35,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.026713"
   },
   {
     "doc_id": "FAQ",
@@ -285,9 +285,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: How do I report a lost or stolen debit card?\nA1: Report a lost or stolen debit card immediately by calling our customer service at 1-800-123-4567 or through our mobile app.",
+    "text": "None\nQ1: How do I report a lost or stolen debit card? A1: Report a lost or stolen debit card immediately by calling our customer service at 1-800-123-4567 or through our mobile app.",
     "token_count": 50,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.026713"
   },
   {
     "doc_id": "FAQ",
@@ -295,9 +295,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: How can I order a new checkbook?\nA2: You can order a new checkbook through our online banking portal, mobile app, or by visiting any of our branches.",
+    "text": "None\nQ2: How can I order a new checkbook? A2: You can order a new checkbook through our online banking portal, mobile app, or by visiting any of our branches.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.026713"
   },
   {
     "doc_id": "FAQ",
@@ -305,9 +305,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: How can I increase my credit limit?\nA3: To request an increase in your credit limit, log into your online banking account and apply through the credit card section or call customer service.",
+    "text": "None\nQ3: How can I increase my credit limit? A3: To request an increase in your credit limit, log into your online banking account and apply through the credit card section or call customer service.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.026713"
   },
   {
     "doc_id": "FAQ",
@@ -315,9 +315,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: How do I activate my new credit card?\nA4: Activate your new credit card by calling the activation number provided with your card or by logging into your online banking account.",
+    "text": "None\nQ4: How do I activate my new credit card? A4: Activate your new credit card by calling the activation number provided with your card or by logging into your online banking account.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.026713"
   },
   {
     "doc_id": "FAQ",
@@ -325,9 +325,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ5: Can I use my debit card internationally?\nA5: Yes, you can use your debit card internationally. Notify us before traveling to avoid any issues with your card being blocked.",
+    "text": "None\nQ5: Can I use my debit card internationally? A5: Yes, you can use your debit card internationally. Notify us before traveling to avoid any issues with your card being blocked.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.026713"
   },
   {
     "doc_id": "FAQ",
@@ -335,9 +335,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ6: Can I get a temporary credit limit increase?\nA6: To request a temporary credit limit increase, contact customer service or log into your online banking account and apply for a temporary increase.",
+    "text": "None\nQ6: Can I get a temporary credit limit increase? A6: To request a temporary credit limit increase, contact customer service or log into your online banking account and apply for a temporary increase.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -345,9 +345,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ7: How can I get a copy of my credit report?\nA7: You can request a copy of your credit report through the credit reporting agencies or check if it is available through your online banking account.",
+    "text": "None\nQ7: How can I get a copy of my credit report? A7: You can request a copy of your credit report through the credit reporting agencies or check if it is available through your online banking account.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -355,9 +355,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ8: How do I activate a new debit card?\nA8: Activate your new debit card by calling the activation number provided with your card or by logging into your online banking account.",
+    "text": "None\nQ8: How do I activate a new debit card? A8: Activate your new debit card by calling the activation number provided with your card or by logging into your online banking account.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -365,9 +365,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ9: How do I apply for a credit card?\nA9: To apply for a credit card, visit our website and complete the online application form or visit a branch to apply in person.",
+    "text": "None\nQ9: How do I apply for a credit card? A9: To apply for a credit card, visit our website and complete the online application form or visit a branch to apply in person.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -375,9 +375,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ10: How do I check my credit score?\nA10: You can check your credit score through our online banking platform or by requesting a credit report from credit reporting agencies.",
+    "text": "None\nQ10: How do I check my credit score? A10: You can check your credit score through our online banking platform or by requesting a credit report from credit reporting agencies.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -385,9 +385,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ11: How can I get a replacement for a damaged card?\nA11: To get a replacement for a damaged card, contact customer service or visit a branch to request a new card.",
+    "text": "None\nQ11: How can I get a replacement for a damaged card? A11: To get a replacement for a damaged card, contact customer service or visit a branch to request a new card.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -395,9 +395,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ12: How do I dispute a charge on my credit card?\nA12: To dispute a charge, contact our customer service with the details of the charge and any supporting documentation.",
+    "text": "None\nQ12: How do I dispute a charge on my credit card? A12: To dispute a charge, contact our customer service with the details of the charge and any supporting documentation.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.042655"
   },
   {
     "doc_id": "FAQ",
@@ -405,9 +405,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ13: How can I request a credit increase on my card?\nA13: Request a credit increase by logging into your online banking account or contacting customer service to discuss your request.",
+    "text": "None\nQ13: How can I request a credit increase on my card? A13: Request a credit increase by logging into your online banking account or contacting customer service to discuss your request.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -415,9 +415,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ14: How do I activate my new credit card?\nA14: Activate your new credit card by calling the activation number provided with your card or by logging into your online banking account.",
+    "text": "None\nQ14: How do I activate my new credit card? A14: Activate your new credit card by calling the activation number provided with your card or by logging into your online banking account.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -425,9 +425,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ15: How can I request a temporary increase in my withdrawal limit?\nA15: To request a temporary increase in your withdrawal limit, contact customer service or visit a branch to discuss your request.",
+    "text": "None\nQ15: How can I request a temporary increase in my withdrawal limit? A15: To request a temporary increase in your withdrawal limit, contact customer service or visit a branch to discuss your request.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -435,9 +435,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ16: Can I get a credit report through your bank?\nA16: Credit reports are available through credit reporting agencies. Check if you have access through your online banking account.",
+    "text": "None\nQ16: Can I get a credit report through your bank? A16: Credit reports are available through credit reporting agencies. Check if you have access through your online banking account.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -445,9 +445,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ17: How can I request a new debit card?\nA17: Request a new debit card by contacting customer service or visiting a branch to order a replacement card.",
+    "text": "None\nQ17: How can I request a new debit card? A17: Request a new debit card by contacting customer service or visiting a branch to order a replacement card.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -455,9 +455,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ18: Can I get a temporary overdraft limit increase?\nA18: Yes, you can request a temporary overdraft limit increase by contacting customer service or visiting a branch to discuss your needs.",
+    "text": "None\nQ18: Can I get a temporary overdraft limit increase? A18: Yes, you can request a temporary overdraft limit increase by contacting customer service or visiting a branch to discuss your needs.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -465,9 +465,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ19: What are your procedures for reporting lost or stolen cards?\nA19: Report lost or stolen cards immediately by contacting customer service to block the card and request a replacement.",
+    "text": "None\nQ19: What are your procedures for reporting lost or stolen cards? A19: Report lost or stolen cards immediately by contacting customer service to block the card and request a replacement.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.058454"
   },
   {
     "doc_id": "FAQ",
@@ -475,9 +475,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ20: How do I apply for a personal line of credit?\nA20: Apply for a personal line of credit by visiting our website or a branch to complete the application process with a loan officer.",
+    "text": "None\nQ20: How do I apply for a personal line of credit? A20: Apply for a personal line of credit by visiting our website or a branch to complete the application process with a loan officer.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.074213"
   },
   {
     "doc_id": "FAQ",
@@ -485,9 +485,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ21: How do I apply for a business credit card?\nA21: Apply for a business credit card by visiting our website and completing the online application or by contacting our business credit department.",
+    "text": "None\nQ21: How do I apply for a business credit card? A21: Apply for a business credit card by visiting our website and completing the online application or by contacting our business credit department.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.074213"
   },
   {
     "doc_id": "FAQ",
@@ -495,9 +495,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: What is the process to dispute a transaction?\nA1: To dispute a transaction, contact our customer service with your account details and information about the transaction you wish to dispute.",
+    "text": "None\nQ1: What is the process to dispute a transaction? A1: To dispute a transaction, contact our customer service with your account details and information about the transaction you wish to dispute.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.074213"
   },
   {
     "doc_id": "FAQ",
@@ -505,9 +505,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: What are your fees for overdraft protection?\nA2: Fees for overdraft protection vary. Please refer to our fee schedule on our website or contact customer service for details.",
+    "text": "None\nQ2: What are your fees for overdraft protection? A2: Fees for overdraft protection vary. Please refer to our fee schedule on our website or contact customer service for details.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.074213"
   },
   {
     "doc_id": "FAQ",
@@ -515,9 +515,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: What is your banks policy on foreign transactions?\nA3: Foreign transaction fees and policies can be found on our website or by contacting customer service for details specific to your account.",
+    "text": "None\nQ3: What is your banks policy on foreign transactions? A3: Foreign transaction fees and policies can be found on our website or by contacting customer service for details specific to your account.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.074213"
   },
   {
     "doc_id": "FAQ",
@@ -525,9 +525,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: How can I set up alerts for my account transactions?\nA4: You can set up account alerts by logging into your online banking account and selecting the 'Alerts' option to customize notifications for various account activities.",
+    "text": "None\nQ4: How can I set up alerts for my account transactions? A4: You can set up account alerts by logging into your online banking account and selecting the 'Alerts' option to customize notifications for various account activities.",
     "token_count": 53,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.074213"
   },
   {
     "doc_id": "FAQ",
@@ -535,9 +535,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ5: What are your policies on account closure fees?\nA5: Account closure fees, if any, are detailed in our fee schedule. Please review the information on our website or contact customer service.",
+    "text": "None\nQ5: What are your policies on account closure fees? A5: Account closure fees, if any, are detailed in our fee schedule. Please review the information on our website or contact customer service.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.089953"
   },
   {
     "doc_id": "FAQ",
@@ -545,9 +545,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ6: What is your policy on account inactivity fees?\nA6: Account inactivity fees and policies are detailed in our fee schedule. Please review the information on our website or contact customer service.",
+    "text": "None\nQ6: What is your policy on account inactivity fees? A6: Account inactivity fees and policies are detailed in our fee schedule. Please review the information on our website or contact customer service.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.089953"
   },
   {
     "doc_id": "FAQ",
@@ -555,9 +555,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ7: What is your policy on returned checks?\nA7: Our policy on returned checks, including fees and procedures, can be found on our website or by contacting customer service.",
+    "text": "None\nQ7: What is your policy on returned checks? A7: Our policy on returned checks, including fees and procedures, can be found on our website or by contacting customer service.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.089953"
   },
   {
     "doc_id": "FAQ",
@@ -565,9 +565,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ8: What should I do if I notice an unauthorized transaction?\nA8: Report any unauthorized transactions to customer service immediately to resolve the issue and secure your account.",
+    "text": "None\nQ8: What should I do if I notice an unauthorized transaction? A8: Report any unauthorized transactions to customer service immediately to resolve the issue and secure your account.",
     "token_count": 37,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.089953"
   },
   {
     "doc_id": "FAQ",
@@ -575,9 +575,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ9: What are your fees for account maintenance?\nA9: Fees for account maintenance can be found on our fee schedule. Please review the information on our website or contact customer service.",
+    "text": "None\nQ9: What are your fees for account maintenance? A9: Fees for account maintenance can be found on our fee schedule. Please review the information on our website or contact customer service.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.089953"
   },
   {
     "doc_id": "FAQ",
@@ -585,9 +585,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ10: What are your procedures for handling fraudulent transactions?\nA10: Procedures for handling fraudulent transactions are detailed on our website. Contact customer service immediately if you suspect fraud.",
+    "text": "None\nQ10: What are your procedures for handling fraudulent transactions? A10: Procedures for handling fraudulent transactions are detailed on our website. Contact customer service immediately if you suspect fraud.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.089953"
   },
   {
     "doc_id": "FAQ",
@@ -595,9 +595,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ11: What is your policy on account inactivity fees?\nA11: Account inactivity fees and policies are detailed in our fee schedule. Please review the information on our website or contact customer service for details.",
+    "text": "None\nQ11: What is your policy on account inactivity fees? A11: Account inactivity fees and policies are detailed in our fee schedule. Please review the information on our website or contact customer service for details.",
     "token_count": 48,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.105776"
   },
   {
     "doc_id": "FAQ",
@@ -605,9 +605,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ12: What are your policies on account inactivity fees?\nA12: Account inactivity fees and policies are detailed in our fee schedule. Please review the information on our website or contact customer service for details.",
+    "text": "None\nQ12: What are your policies on account inactivity fees? A12: Account inactivity fees and policies are detailed in our fee schedule. Please review the information on our website or contact customer service for details.",
     "token_count": 48,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.105776"
   },
   {
     "doc_id": "FAQ",
@@ -615,9 +615,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: Do you offer financial planning services?\nA1: Yes, we offer financial planning services. Please visit our website or contact our financial advisors for more information and to schedule a consultation.",
+    "text": "None\nQ1: Do you offer financial planning services? A1: Yes, we offer financial planning services. Please visit our website or contact our financial advisors for more information and to schedule a consultation.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.105776"
   },
   {
     "doc_id": "FAQ",
@@ -625,9 +625,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: What should I do if I suspect fraudulent activity on my account?\nA2: If you suspect fraudulent activity, contact our customer service immediately to report it and secure your account.",
+    "text": "None\nQ2: What should I do if I suspect fraudulent activity on my account? A2: If you suspect fraudulent activity, contact our customer service immediately to report it and secure your account.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.105776"
   },
   {
     "doc_id": "FAQ",
@@ -635,9 +635,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: What is the maximum amount I can withdraw from an ATM?\nA3: The maximum ATM withdrawal limit varies by account type and location. Please check with your account details or contact customer service for specific limits.",
+    "text": "None\nQ3: What is the maximum amount I can withdraw from an ATM? A3: The maximum ATM withdrawal limit varies by account type and location. Please check with your account details or contact customer service for specific limits.",
     "token_count": 47,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.105776"
   },
   {
     "doc_id": "FAQ",
@@ -645,9 +645,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: What are your branch hours?\nA4: Branch hours vary by location. Please visit our website or contact your nearest branch for specific hours of operation.",
+    "text": "None\nQ4: What are your branch hours? A4: Branch hours vary by location. Please visit our website or contact your nearest branch for specific hours of operation.",
     "token_count": 36,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.105776"
   },
   {
     "doc_id": "FAQ",
@@ -655,9 +655,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ5: How do I set up account alerts?\nA5: Log into your online banking account, go to the 'Alerts' section, and choose the types of alerts you want to receive for your account activities.",
+    "text": "None\nQ5: How do I set up account alerts? A5: Log into your online banking account, go to the 'Alerts' section, and choose the types of alerts you want to receive for your account activities.",
     "token_count": 50,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -665,9 +665,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ6: What should I do if my account is frozen?\nA6: If your account is frozen, contact our customer service immediately to resolve the issue and provide any necessary information.",
+    "text": "None\nQ6: What should I do if my account is frozen? A6: If your account is frozen, contact our customer service immediately to resolve the issue and provide any necessary information.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -675,9 +675,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ7: How do I stop payment on a check?\nA7: To stop payment on a check, contact our customer service or visit a branch with your account details and information about the check.",
+    "text": "None\nQ7: How do I stop payment on a check? A7: To stop payment on a check, contact our customer service or visit a branch with your account details and information about the check.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -685,9 +685,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ8: How can I add an authorized user to my account?\nA8: To add an authorized user, visit a branch or log into your online banking account and follow the instructions to add a new user.",
+    "text": "None\nQ8: How can I add an authorized user to my account? A8: To add an authorized user, visit a branch or log into your online banking account and follow the instructions to add a new user.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -695,9 +695,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ9: Can I link multiple accounts for easier management?\nA9: Yes, you can link multiple accounts for easier management through our online banking platform or mobile app.",
+    "text": "None\nQ9: Can I link multiple accounts for easier management? A9: Yes, you can link multiple accounts for easier management through our online banking platform or mobile app.",
     "token_count": 37,
-    "created_at": "2025-11-01T15:49:50.370883"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -705,9 +705,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ10: How can I change my PIN?\nA10: To change your PIN, log into your online banking account or visit an ATM and follow the instructions to update your PIN.",
+    "text": "None\nQ10: How can I change my PIN? A10: To change your PIN, log into your online banking account or visit an ATM and follow the instructions to update your PIN.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.386649"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -715,9 +715,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ11: Do you offer investment services?\nA11: Yes, we offer a range of investment services. Please visit our investment services page or contact a financial advisor for more information.",
+    "text": "None\nQ11: Do you offer investment services? A11: Yes, we offer a range of investment services. Please visit our investment services page or contact a financial advisor for more information.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.386649"
+    "created_at": "2025-11-02T15:36:59.121612"
   },
   {
     "doc_id": "FAQ",
@@ -725,9 +725,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ12: How can I request a stop payment on a check?\nA12: Request a stop payment on a check by contacting our customer service or through online banking if the option is available.",
+    "text": "None\nQ12: How can I request a stop payment on a check? A12: Request a stop payment on a check by contacting our customer service or through online banking if the option is available.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.386649"
+    "created_at": "2025-11-02T15:36:59.137286"
   },
   {
     "doc_id": "FAQ",
@@ -735,9 +735,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ13: What are your options for retirement accounts?\nA13: We offer various retirement account options, including IRAs and 401(k)s. Please visit our retirement planning page or consult a financial advisor.",
+    "text": "None\nQ13: What are your options for retirement accounts? A13: We offer various retirement account options, including IRAs and 401(k)s. Please visit our retirement planning page or consult a financial advisor.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.387690"
+    "created_at": "2025-11-02T15:36:59.137286"
   },
   {
     "doc_id": "FAQ",
@@ -745,9 +745,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ14: Can I get assistance with budgeting?\nA14: Yes, we offer budgeting assistance and financial planning services. Please contact us to schedule a consultation with one of our advisors.",
+    "text": "None\nQ14: Can I get assistance with budgeting? A14: Yes, we offer budgeting assistance and financial planning services. Please contact us to schedule a consultation with one of our advisors.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.387690"
+    "created_at": "2025-11-02T15:36:59.137286"
   },
   {
     "doc_id": "FAQ",
@@ -755,9 +755,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ15: What should I do if I receive a suspicious email claiming to be from the bank?\nA15: Do not click any links or provide personal information. Forward the email to our fraud department at fraud@example.com for investigation.",
+    "text": "None\nQ15: What should I do if I receive a suspicious email claiming to be from the bank? A15: Do not click any links or provide personal information. Forward the email to our fraud department at fraud@example.com for investigation.",
     "token_count": 52,
-    "created_at": "2025-11-01T15:49:50.387690"
+    "created_at": "2025-11-02T15:36:59.137286"
   },
   {
     "doc_id": "FAQ",
@@ -765,9 +765,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ16: Do you offer student accounts?\nA16: Yes, we offer student accounts with special features and benefits. Please visit our student accounts page or contact customer service for details.",
+    "text": "None\nQ16: Do you offer student accounts? A16: Yes, we offer student accounts with special features and benefits. Please visit our student accounts page or contact customer service for details.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.388971"
+    "created_at": "2025-11-02T15:36:59.137286"
   },
   {
     "doc_id": "FAQ",
@@ -775,9 +775,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ17: Can I set up alerts for unusual account activity?\nA17: Yes, you can set up alerts for unusual account activity through our online banking platform or mobile app to monitor your account more closely.",
+    "text": "None\nQ17: Can I set up alerts for unusual account activity? A17: Yes, you can set up alerts for unusual account activity through our online banking platform or mobile app to monitor your account more closely.",
     "token_count": 47,
-    "created_at": "2025-11-01T15:49:50.388971"
+    "created_at": "2025-11-02T15:36:59.137286"
   },
   {
     "doc_id": "FAQ",
@@ -785,9 +785,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ18: How can I cancel a scheduled payment?\nA18: To cancel a scheduled payment, log into your online banking account, navigate to 'Scheduled Payments,' and follow the instructions to cancel.",
+    "text": "None\nQ18: How can I cancel a scheduled payment? A18: To cancel a scheduled payment, log into your online banking account, navigate to 'Scheduled Payments,' and follow the instructions to cancel.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.388971"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -795,9 +795,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ19: What should I do if I suspect my account has been compromised?\nA19: Immediately contact our customer service to report the issue and take steps to secure your account from further unauthorized access.",
+    "text": "None\nQ19: What should I do if I suspect my account has been compromised? A19: Immediately contact our customer service to report the issue and take steps to secure your account from further unauthorized access.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.388971"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -805,9 +805,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ20: How can I request a change in my account type?\nA20: To request a change in your account type, contact customer service or visit a branch to discuss the available options and requirements.",
+    "text": "None\nQ20: How can I request a change in my account type? A20: To request a change in your account type, contact customer service or visit a branch to discuss the available options and requirements.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.389968"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -815,9 +815,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ21: What are your policies on account overdraft?\nA21: Our policies on overdraft protection and fees can be found on our website or by contacting customer service for specific details.",
+    "text": "None\nQ21: What are your policies on account overdraft? A21: Our policies on overdraft protection and fees can be found on our website or by contacting customer service for specific details.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.389968"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -825,9 +825,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ22: Do you offer business banking services?\nA22: Yes, we offer a range of business banking services. Please visit our business banking page or contact a representative for more information.",
+    "text": "None\nQ22: Do you offer business banking services? A22: Yes, we offer a range of business banking services. Please visit our business banking page or contact a representative for more information.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.389968"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -835,9 +835,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ23: How can I find the nearest branch or ATM?\nA23: You can find the nearest branch or ATM by using the branch locator tool on our website or mobile app.",
+    "text": "None\nQ23: How can I find the nearest branch or ATM? A23: You can find the nearest branch or ATM by using the branch locator tool on our website or mobile app.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.389968"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -845,9 +845,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ24: Can I add a joint account holder?\nA24: Yes, you can add a joint account holder by visiting a branch or updating your account details through online banking.",
+    "text": "None\nQ24: Can I add a joint account holder? A24: Yes, you can add a joint account holder by visiting a branch or updating your account details through online banking.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.390968"
+    "created_at": "2025-11-02T15:36:59.153127"
   },
   {
     "doc_id": "FAQ",
@@ -855,9 +855,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ25: Do you offer personal finance advice?\nA25: Yes, we offer personal finance advice and financial planning services. Contact us to schedule a meeting with one of our financial advisors.",
+    "text": "None\nQ25: Do you offer personal finance advice? A25: Yes, we offer personal finance advice and financial planning services. Contact us to schedule a meeting with one of our financial advisors.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.390968"
+    "created_at": "2025-11-02T15:36:59.169073"
   },
   {
     "doc_id": "FAQ",
@@ -865,9 +865,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ26: Can I set up account notifications?\nA26: Yes, you can set up account notifications through our online banking portal or mobile app to receive alerts for various account activities.",
+    "text": "None\nQ26: Can I set up account notifications? A26: Yes, you can set up account notifications through our online banking portal or mobile app to receive alerts for various account activities.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.390968"
+    "created_at": "2025-11-02T15:36:59.169073"
   },
   {
     "doc_id": "FAQ",
@@ -875,9 +875,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ27: What are the benefits of having a premium account?\nA27: Premium accounts offer additional benefits such as higher interest rates, lower fees, and exclusive services. Please check our website for more details.",
+    "text": "None\nQ27: What are the benefits of having a premium account? A27: Premium accounts offer additional benefits such as higher interest rates, lower fees, and exclusive services. Please check our website for more details.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.390968"
+    "created_at": "2025-11-02T15:36:59.169073"
   },
   {
     "doc_id": "FAQ",
@@ -885,9 +885,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ28: Can I get assistance with financial planning?\nA28: Yes, we offer financial planning assistance. Contact our financial advisors to get help with planning and managing your finances.",
+    "text": "None\nQ28: Can I get assistance with financial planning? A28: Yes, we offer financial planning assistance. Contact our financial advisors to get help with planning and managing your finances.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.391968"
+    "created_at": "2025-11-02T15:36:59.169073"
   },
   {
     "doc_id": "FAQ",
@@ -895,9 +895,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ29: How do I set up auto-pay for my bills?\nA29: Set up auto-pay for your bills through our online banking portal or mobile app by selecting 'Bill Pay' and configuring automatic payments.",
+    "text": "None\nQ29: How do I set up auto-pay for my bills? A29: Set up auto-pay for your bills through our online banking portal or mobile app by selecting 'Bill Pay' and configuring automatic payments.",
     "token_count": 51,
-    "created_at": "2025-11-01T15:49:50.391968"
+    "created_at": "2025-11-02T15:36:59.169073"
   },
   {
     "doc_id": "FAQ",
@@ -905,9 +905,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ30: What should I do if I receive an unexpected charge on my account?\nA30: Review the charge details and contact customer service if you believe the charge is incorrect or unauthorized.",
+    "text": "None\nQ30: What should I do if I receive an unexpected charge on my account? A30: Review the charge details and contact customer service if you believe the charge is incorrect or unauthorized.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.391968"
+    "created_at": "2025-11-02T15:36:59.169073"
   },
   {
     "doc_id": "FAQ",
@@ -915,9 +915,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ31: Do you offer retirement planning services?\nA31: Yes, we offer retirement planning services. Contact us to schedule a meeting with a retirement planning advisor.",
+    "text": "None\nQ31: Do you offer retirement planning services? A31: Yes, we offer retirement planning services. Contact us to schedule a meeting with a retirement planning advisor.",
     "token_count": 36,
-    "created_at": "2025-11-01T15:49:50.391968"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -925,9 +925,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ32: Can I link my accounts for easier access?\nA32: Yes, you can link your accounts for easier access through our online banking platform or mobile app.",
+    "text": "None\nQ32: Can I link my accounts for easier access? A32: Yes, you can link your accounts for easier access through our online banking platform or mobile app.",
     "token_count": 37,
-    "created_at": "2025-11-01T15:49:50.392968"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -935,9 +935,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ33: How do I set up a new savings account?\nA33: To set up a new savings account, visit our website or a branch and provide the necessary identification and documentation.",
+    "text": "None\nQ33: How do I set up a new savings account? A33: To set up a new savings account, visit our website or a branch and provide the necessary identification and documentation.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.392968"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -945,9 +945,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ34: How can I change my account type?\nA34: To change your account type, contact customer service or visit a branch to discuss the available options and requirements.",
+    "text": "None\nQ34: How can I change my account type? A34: To change your account type, contact customer service or visit a branch to discuss the available options and requirements.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.392968"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -955,9 +955,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ35: What should I do if I receive a suspicious call claiming to be from the bank?\nA35: Do not provide any personal information. Hang up and contact customer service using our official phone number to verify the call's legitimacy.",
+    "text": "None\nQ35: What should I do if I receive a suspicious call claiming to be from the bank? A35: Do not provide any personal information. Hang up and contact customer service using our official phone number to verify the call's legitimacy.",
     "token_count": 52,
-    "created_at": "2025-11-01T15:49:50.392968"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -965,9 +965,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ36: What are the benefits of having a checking account?\nA36: Checking accounts offer features such as easy access to funds, direct deposit, and check writing. Review our account options for more details.",
+    "text": "None\nQ36: What are the benefits of having a checking account? A36: Checking accounts offer features such as easy access to funds, direct deposit, and check writing. Review our account options for more details.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.392968"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -975,9 +975,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ37: Do you offer travel insurance?\nA37: Yes, we offer travel insurance. Please visit our website or contact customer service for more information on travel insurance options.",
+    "text": "None\nQ37: Do you offer travel insurance? A37: Yes, we offer travel insurance. Please visit our website or contact customer service for more information on travel insurance options.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.394037"
+    "created_at": "2025-11-02T15:36:59.185013"
   },
   {
     "doc_id": "FAQ",
@@ -985,9 +985,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ38: How can I get help with financial emergencies?\nA38: For help with financial emergencies, contact customer service to discuss available options and support.",
+    "text": "None\nQ38: How can I get help with financial emergencies? A38: For help with financial emergencies, contact customer service to discuss available options and support.",
     "token_count": 34,
-    "created_at": "2025-11-01T15:49:50.394037"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -995,9 +995,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ39: Can I view my account activity history?\nA39: Yes, you can view your account activity history by logging into your online banking account and accessing the 'Account Activity' section.",
+    "text": "None\nQ39: Can I view my account activity history? A39: Yes, you can view your account activity history by logging into your online banking account and accessing the 'Account Activity' section.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.394775"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1005,9 +1005,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ40: Can I access my account through a web browser?\nA40: Yes, you can access your account through a web browser by logging into our online banking platform.",
+    "text": "None\nQ40: Can I access my account through a web browser? A40: Yes, you can access your account through a web browser by logging into our online banking platform.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.394775"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1015,9 +1015,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ41: Do you offer account protection services?\nA41: Yes, we offer account protection services. Contact customer service or visit our website for information on available protection options.",
+    "text": "None\nQ41: Do you offer account protection services? A41: Yes, we offer account protection services. Contact customer service or visit our website for information on available protection options.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1025,9 +1025,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ42: How do I access my tax documents?\nA42: Access your tax documents by logging into your online banking account and navigating to the 'Tax Documents' section.",
+    "text": "None\nQ42: How do I access my tax documents? A42: Access your tax documents by logging into your online banking account and navigating to the 'Tax Documents' section.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1035,9 +1035,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ43: Can I get help with budgeting and financial planning?\nA43: Yes, we offer budgeting and financial planning assistance. Contact us to schedule a meeting with one of our financial advisors.",
+    "text": "None\nQ43: Can I get help with budgeting and financial planning? A43: Yes, we offer budgeting and financial planning assistance. Contact us to schedule a meeting with one of our financial advisors.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1045,9 +1045,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ44: How do I change my account settings?\nA44: Change your account settings by logging into your online banking account and navigating to the 'Settings' section.",
+    "text": "None\nQ44: How do I change my account settings? A44: Change your account settings by logging into your online banking account and navigating to the 'Settings' section.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1055,9 +1055,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ45: What are your procedures for account reconciliation?\nA45: Account reconciliation procedures can be found on our website or by contacting customer service for specific details.",
+    "text": "None\nQ45: What are your procedures for account reconciliation? A45: Account reconciliation procedures can be found on our website or by contacting customer service for specific details.",
     "token_count": 36,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.200739"
   },
   {
     "doc_id": "FAQ",
@@ -1065,9 +1065,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ46: Do you offer insurance products?\nA46: Yes, we offer various insurance products. Please visit our website or contact customer service for more information on insurance options.",
+    "text": "None\nQ46: Do you offer insurance products? A46: Yes, we offer various insurance products. Please visit our website or contact customer service for more information on insurance options.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1075,9 +1075,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ47: How do I manage my account alerts?\nA47: Manage your account alerts by logging into your online banking account and accessing the 'Alerts' section to customize your notifications.",
+    "text": "None\nQ47: How do I manage my account alerts? A47: Manage your account alerts by logging into your online banking account and accessing the 'Alerts' section to customize your notifications.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1085,9 +1085,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ48: Can I get help with tax filing?\nA48: For help with tax filing, consider consulting with a tax advisor or financial planner. We may also offer resources and assistance through our services.",
+    "text": "None\nQ48: Can I get help with tax filing? A48: For help with tax filing, consider consulting with a tax advisor or financial planner. We may also offer resources and assistance through our services.",
     "token_count": 44,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1095,9 +1095,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ49: How do I set up a joint account?\nA49: To set up a joint account, visit a branch or contact customer service to complete the necessary paperwork and provide identification for all account holders.",
+    "text": "None\nQ49: How do I set up a joint account? A49: To set up a joint account, visit a branch or contact customer service to complete the necessary paperwork and provide identification for all account holders.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1105,9 +1105,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ50: Can I get a copy of my account contract?\nA50: Request a copy of your account contract by contacting customer service or accessing your account documents through our online banking portal.",
+    "text": "None\nQ50: Can I get a copy of my account contract? A50: Request a copy of your account contract by contacting customer service or accessing your account documents through our online banking portal.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1115,9 +1115,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ51: How can I get financial advice for retirement planning?\nA51: Contact our retirement planning advisors to schedule a meeting and get personalized financial advice for your retirement planning needs.",
+    "text": "None\nQ51: How can I get financial advice for retirement planning? A51: Contact our retirement planning advisors to schedule a meeting and get personalized financial advice for your retirement planning needs.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1125,9 +1125,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ52: Do you offer investment services?\nA52: Yes, we offer investment services. Contact us or visit our website to learn more about our investment options and services.",
+    "text": "None\nQ52: Do you offer investment services? A52: Yes, we offer investment services. Contact us or visit our website to learn more about our investment options and services.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.216739"
   },
   {
     "doc_id": "FAQ",
@@ -1135,9 +1135,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ53: Can I get help with student budgeting?\nA53: Yes, we offer budgeting assistance for students. Contact our financial advisors to get help with managing your finances while studying.",
+    "text": "None\nQ53: Can I get help with student budgeting? A53: Yes, we offer budgeting assistance for students. Contact our financial advisors to get help with managing your finances while studying.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1145,9 +1145,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ54: Can I get a copy of my account history?\nA54: Yes, you can get a copy of your account history by logging into your online banking account and requesting the information through the 'Account Activity' section.",
+    "text": "None\nQ54: Can I get a copy of my account history? A54: Yes, you can get a copy of your account history by logging into your online banking account and requesting the information through the 'Account Activity' section.",
     "token_count": 49,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1155,9 +1155,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ55: Can I access my account through a phone call?\nA55: Most account services are available through phone support. Contact customer service for assistance with your account over the phone.",
+    "text": "None\nQ55: Can I access my account through a phone call? A55: Most account services are available through phone support. Contact customer service for assistance with your account over the phone.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1165,9 +1165,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ56: How can I manage my account settings?\nA56: Manage your account settings by logging into your online banking account and accessing the 'Settings' section.",
+    "text": "None\nQ56: How can I manage my account settings? A56: Manage your account settings by logging into your online banking account and accessing the 'Settings' section.",
     "token_count": 37,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1175,9 +1175,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ57: Do you offer financial literacy resources?\nA57: Yes, we offer financial literacy resources. Visit our website or contact customer service to access educational materials and workshops.",
+    "text": "None\nQ57: Do you offer financial literacy resources? A57: Yes, we offer financial literacy resources. Visit our website or contact customer service to access educational materials and workshops.",
     "token_count": 38,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1185,9 +1185,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ58: Hi\nA58: Hi there, My name is Alice from XYZ Bank. How may I help you?",
+    "text": "None\nQ58: Hi A58: Hi there, My name is Alice from XYZ Bank. How may I help you?",
     "token_count": 29,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1195,9 +1195,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ59: Tell me about your services\nA59: We are leading international bank, having branches in 5 cities across the Globe. We provide Savings Account, Current Account, Loans and Credit Cards.",
+    "text": "None\nQ59: Tell me about your services A59: We are leading international bank, having branches in 5 cities across the Globe. We provide Savings Account, Current Account, Loans and Credit Cards.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1205,9 +1205,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: What are your current interest rates for savings accounts?\nA1: Please visit our website or contact customer service for the most up-to-date information on interest rates for savings accounts.",
+    "text": "None\nQ1: What are your current interest rates for savings accounts? A1: Please visit our website or contact customer service for the most up-to-date information on interest rates for savings accounts.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.232425"
   },
   {
     "doc_id": "FAQ",
@@ -1215,9 +1215,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: How can I get a loan for a new car?\nA2: To apply for a car loan, visit our website to complete the online application or visit a branch to speak with a loan officer.",
+    "text": "None\nQ2: How can I get a loan for a new car? A2: To apply for a car loan, visit our website to complete the online application or visit a branch to speak with a loan officer.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.248189"
   },
   {
     "doc_id": "FAQ",
@@ -1225,9 +1225,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: Can I get a loan for home improvement?\nA3: Yes, we offer loans for home improvement. Apply online or visit a branch to speak with a loan officer about your options.",
+    "text": "None\nQ3: Can I get a loan for home improvement? A3: Yes, we offer loans for home improvement. Apply online or visit a branch to speak with a loan officer about your options.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.248189"
   },
   {
     "doc_id": "FAQ",
@@ -1235,9 +1235,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: Do you offer student loan services?\nA4: Yes, we offer student loan services. Please visit our website or contact our loan department for information on student loan options.",
+    "text": "None\nQ4: Do you offer student loan services? A4: Yes, we offer student loan services. Please visit our website or contact our loan department for information on student loan options.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.248189"
   },
   {
     "doc_id": "FAQ",
@@ -1245,9 +1245,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ5: Can I get a loan for home renovation?\nA5: Yes, we offer loans for home renovation. Apply online or visit a branch to speak with a loan officer about your options.",
+    "text": "None\nQ5: Can I get a loan for home renovation? A5: Yes, we offer loans for home renovation. Apply online or visit a branch to speak with a loan officer about your options.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.395211"
+    "created_at": "2025-11-02T15:36:59.248189"
   },
   {
     "doc_id": "FAQ",
@@ -1255,9 +1255,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ6: Can I get a loan for debt consolidation?\nA6: Yes, we offer loans for debt consolidation. Apply online or visit a branch to discuss your options with a loan officer.",
+    "text": "None\nQ6: Can I get a loan for debt consolidation? A6: Yes, we offer loans for debt consolidation. Apply online or visit a branch to discuss your options with a loan officer.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.401042"
+    "created_at": "2025-11-02T15:36:59.248189"
   },
   {
     "doc_id": "FAQ",
@@ -1265,9 +1265,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ7: Can I get a loan for a business?\nA7: Yes, we offer business loans. Apply online or visit a branch to discuss your business loan options with a loan officer.",
+    "text": "None\nQ7: Can I get a loan for a business? A7: Yes, we offer business loans. Apply online or visit a branch to discuss your business loan options with a loan officer.",
     "token_count": 42,
-    "created_at": "2025-11-01T15:49:50.401042"
+    "created_at": "2025-11-02T15:36:59.248189"
   },
   {
     "doc_id": "FAQ",
@@ -1275,9 +1275,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ8: What should I do if I have a question about my loan?\nA8: For questions about your loan, contact our loan department or visit a branch to speak with a loan officer for assistance.",
+    "text": "None\nQ8: What should I do if I have a question about my loan? A8: For questions about your loan, contact our loan department or visit a branch to speak with a loan officer for assistance.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.401042"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1285,9 +1285,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ1: What should I do if I forget my online banking password?\nA1: Click on 'Forgot Password' on the login page and follow the instructions to reset your password using your registered email address.",
+    "text": "None\nQ1: What should I do if I forget my online banking password? A1: Click on 'Forgot Password' on the login page and follow the instructions to reset your password using your registered email address.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1295,9 +1295,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ2: How can I apply for a loan?\nA2: To apply for a loan, visit our website and fill out the online application form or visit one of our branches to speak with a loan officer.",
+    "text": "None\nQ2: How can I apply for a loan? A2: To apply for a loan, visit our website and fill out the online application form or visit one of our branches to speak with a loan officer.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1305,9 +1305,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ3: Can I schedule recurring payments?\nA3: Yes, you can schedule recurring payments through our online banking portal or mobile app by setting up automatic payments for your bills.",
+    "text": "None\nQ3: Can I schedule recurring payments? A3: Yes, you can schedule recurring payments through our online banking portal or mobile app by setting up automatic payments for your bills.",
     "token_count": 39,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1315,9 +1315,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ4: How can I check the status of my loan application?\nA4: To check the status of your loan application, log into your online banking account or contact our loan department for updates.",
+    "text": "None\nQ4: How can I check the status of my loan application? A4: To check the status of your loan application, log into your online banking account or contact our loan department for updates.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1325,9 +1325,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ5: Can I view my account history online?\nA5: Yes, you can view your account history online by logging into your online banking account and accessing the 'Account History' section.",
+    "text": "None\nQ5: Can I view my account history online? A5: Yes, you can view your account history online by logging into your online banking account and accessing the 'Account History' section.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1335,9 +1335,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ6: How do I set up online banking?\nA6: To set up online banking, visit our website and follow the instructions to register for online access using your account information.",
+    "text": "None\nQ6: How do I set up online banking? A6: To set up online banking, visit our website and follow the instructions to register for online access using your account information.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.264047"
   },
   {
     "doc_id": "FAQ",
@@ -1345,9 +1345,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ7: How do I check if my application is approved?\nA7: You can check the status of your application by logging into your online banking account or contacting customer service for an update.",
+    "text": "None\nQ7: How do I check if my application is approved? A7: You can check the status of your application by logging into your online banking account or contacting customer service for an update.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1355,9 +1355,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ8: How can I get help with online banking issues?\nA8: For assistance with online banking issues, contact our customer support team or visit a branch for in-person help.",
+    "text": "None\nQ8: How can I get help with online banking issues? A8: For assistance with online banking issues, contact our customer support team or visit a branch for in-person help.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1365,9 +1365,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ9: Can I access my account through a mobile app?\nA9: Yes, you can access your account through our mobile app available for download on both iOS and Android devices.",
+    "text": "None\nQ9: Can I access my account through a mobile app? A9: Yes, you can access your account through our mobile app available for download on both iOS and Android devices.",
     "token_count": 40,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1375,9 +1375,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ10: How do I change my account password?\nA10: To change your account password, log into your online banking account, go to the 'Security' settings, and follow the instructions to update your password.",
+    "text": "None\nQ10: How do I change my account password? A10: To change your account password, log into your online banking account, go to the 'Security' settings, and follow the instructions to update your password.",
     "token_count": 47,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1385,9 +1385,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ11: What is the process for applying for a mortgage?\nA11: Apply for a mortgage by visiting our website, completing the online application, or visiting a branch to discuss your options with a loan officer.",
+    "text": "None\nQ11: What is the process for applying for a mortgage? A11: Apply for a mortgage by visiting our website, completing the online application, or visiting a branch to discuss your options with a loan officer.",
     "token_count": 46,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1395,9 +1395,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ12: Can I get a financial advisor appointment?\nA12: Yes, you can schedule an appointment with a financial advisor by contacting our office or visiting our website to set up a meeting.",
+    "text": "None\nQ12: Can I get a financial advisor appointment? A12: Yes, you can schedule an appointment with a financial advisor by contacting our office or visiting our website to set up a meeting.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1405,9 +1405,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ13: How can I get help with my mortgage application?\nA13: For help with your mortgage application, contact our mortgage department or visit a branch to speak with a loan officer.",
+    "text": "None\nQ13: How can I get help with my mortgage application? A13: For help with your mortgage application, contact our mortgage department or visit a branch to speak with a loan officer.",
     "token_count": 41,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.279767"
   },
   {
     "doc_id": "FAQ",
@@ -1415,9 +1415,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ14: How do I apply for a personal loan?\nA14: Apply for a personal loan by visiting our website to complete the online application or visit a branch to discuss your options with a loan officer.",
+    "text": "None\nQ14: How do I apply for a personal loan? A14: Apply for a personal loan by visiting our website to complete the online application or visit a branch to discuss your options with a loan officer.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.295440"
   },
   {
     "doc_id": "FAQ",
@@ -1425,9 +1425,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ15: Can I link my bank account to my mobile wallet?\nA15: Yes, you can link your bank account to your mobile wallet. Follow the instructions provided by your mobile wallet app to add your account.",
+    "text": "None\nQ15: Can I link my bank account to my mobile wallet? A15: Yes, you can link your bank account to your mobile wallet. Follow the instructions provided by your mobile wallet app to add your account.",
     "token_count": 47,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.295440"
   },
   {
     "doc_id": "FAQ",
@@ -1435,9 +1435,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ16: How can I apply for a car loan?\nA16: Apply for a car loan by visiting our website to complete the online application or visit a branch to discuss your options with a loan officer.",
+    "text": "None\nQ16: How can I apply for a car loan? A16: Apply for a car loan by visiting our website to complete the online application or visit a branch to discuss your options with a loan officer.",
     "token_count": 45,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.295440"
   },
   {
     "doc_id": "FAQ",
@@ -1445,8 +1445,8 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Faq",
-    "text": "None\nQ17: What should I do if I forget my online banking password?\nA17: Reset your online banking password by following the instructions on the login page or contacting customer service for assistance.",
+    "text": "None\nQ17: What should I do if I forget my online banking password? A17: Reset your online banking password by following the instructions on the login page or contacting customer service for assistance.",
     "token_count": 43,
-    "created_at": "2025-11-01T15:49:50.401776"
+    "created_at": "2025-11-02T15:36:59.295440"
   }
 ]

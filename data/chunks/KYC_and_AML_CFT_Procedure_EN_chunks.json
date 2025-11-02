@@ -5,9 +5,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\nKYC and Anti-Money Laundering / Counter-Terrorism Financing (AML-CFT) Procedure\nDate: January 2025\nInternal Document – Demonstration Use Only",
+    "text": "None\nKYC and Anti-Money Laundering / Counter-Terrorism Financing (AML-CFT) Procedure Date: January 2025 Internal Document – Demonstration Use Only",
     "token_count": 34,
-    "created_at": "2025-11-01T15:50:46.258054"
+    "created_at": "2025-11-02T15:37:05.491165"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -15,9 +15,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n1. Purpose and Regulatory Framework\n   This procedure defines the Know Your Customer (KYC) and Anti-Money Laundering and Counter-Terrorism Financing (AML-CFT) system implemented by FinSight Bank. Its purpose is to ensure full compliance of all Bank operations with national and international legal standards on the prevention of financial crimes, protection of the banking system, and preservation of institutional reputation.\n   The framework aligns with Tunisian Law No. 2016-48 on credit institutions and financial organizations, Law No. 2015-26 of August 7, 2015 on counter-terrorism and money laundering, and BCT Circular No. 2018-06 on minimum AML-CFT system requirements. It also reflects FATF Recommendations 10–21 regarding customer due diligence, ongoing business relationship monitoring, and suspicious transaction reporting.\n   This procedure applies to all products, services, and distribution channels of FinSight Bank, including digital platforms and majority-owned subsidiaries. Every individual or entity maintaining a business relationship with the Bank—clients, authorized representatives, beneficial owners, or partners—is subject to the KYC and AML-CFT framework.\n   FinSight Bank recognizes that a robust AML-CFT framework is essential to its governance and financial soundness. This document formalizes the vigilance, detection, and reporting principles applicable to all employees.",
+    "text": "None\n1. Purpose and Regulatory Framework This procedure defines the Know Your Customer (KYC) and Anti-Money Laundering and Counter-Terrorism Financing (AML-CFT) system implemented by FinSight Bank. Its purpose is to ensure full compliance of all Bank operations with national and international legal standards on the prevention of financial crimes, protection of the banking system, and preservation of institutional reputation. The framework aligns with Tunisian Law No. 2016-48 on credit institutions and financial organizations, Law No. 2015-26 of August 7, 2015 on counter-terrorism and money laundering, and BCT Circular No. 2018-06 on minimum AML-CFT system requirements. It also reflects FATF Recommendations 10–21 regarding customer due diligence, ongoing business relationship monitoring, and suspicious transaction reporting. This procedure applies to all products, services, and distribution channels of FinSight Bank, including digital platforms and majority-owned subsidiaries. Every individual or entity maintaining a business relationship with the Bank—clients, authorized representatives, beneficial owners, or partners—is subject to the KYC and AML-CFT framework. FinSight Bank recognizes that a robust AML-CFT framework is essential to its governance and financial soundness. This document formalizes the vigilance, detection, and reporting principles applicable to all employees.",
     "token_count": 268,
-    "created_at": "2025-11-01T15:50:46.259052"
+    "created_at": "2025-11-02T15:37:05.557603"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -25,9 +25,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n2. Governance and Responsibilities\n   AML-CFT governance relies on clearly defined responsibilities and three lines of defense. The Board of Directors sets strategic priorities and allocates necessary resources. It validates policies, reviews periodic reports, and approves corrective action plans.\n   General Management ensures operational implementation and integration of vigilance measures throughout banking processes. The Compliance / AML-CFT Officer supervises daily operations, regulatory monitoring, alert analysis, and liaison with the Tunisian Financial Analysis Commission (CTAF). The Officer acts independently and reports directly to the Board when major alerts arise.\n   Regional AML-CFT coordinators ensure consistent implementation across territorial branches, proper information flow, and timely reviews. Internal Audit serves as the third line of defense, assessing the effectiveness of the framework and reporting findings to the Audit and Risk Committees.\n   All staff members, regardless of role, must actively contribute to AML-CFT prevention. Each employee must exercise constant vigilance and report anomalies or unusual behaviors using the internal reporting procedure. Non-compliance may result in disciplinary or legal sanctions.",
+    "text": "None\n2. Governance and Responsibilities AML-CFT governance relies on clearly defined responsibilities and three lines of defense. The Board of Directors sets strategic priorities and allocates necessary resources. It validates policies, reviews periodic reports, and approves corrective action plans. General Management ensures operational implementation and integration of vigilance measures throughout banking processes. The Compliance / AML-CFT Officer supervises daily operations, regulatory monitoring, alert analysis, and liaison with the Tunisian Financial Analysis Commission (CTAF). The Officer acts independently and reports directly to the Board when major alerts arise. Regional AML-CFT coordinators ensure consistent implementation across territorial branches, proper information flow, and timely reviews. Internal Audit serves as the third line of defense, assessing the effectiveness of the framework and reporting findings to the Audit and Risk Committees. All staff members, regardless of role, must actively contribute to AML-CFT prevention. Each employee must exercise constant vigilance and report anomalies or unusual behaviors using the internal reporting procedure. Non-compliance may result in disciplinary or legal sanctions.",
     "token_count": 222,
-    "created_at": "2025-11-01T15:50:46.261451"
+    "created_at": "2025-11-02T15:37:05.605105"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -35,9 +35,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n3. Client Identification and Verification (KYC)\n   Client identification is the first line of defense against illicit activities. No business relationship can begin without prior identification and verification of the client and ultimate beneficial owner.\n   Upon onboarding, relationship managers collect official identification documents, proof of address, professional and income details, and the purpose of the banking relationship. For legal entities, required documents include incorporation papers, commercial registration, ownership structure, and list of beneficial owners. Clients are questioned about the source of funds, nature of transactions, and counterparties.\n   Information is recorded in the FinSight Onboard system, which automatically screens against national and international sanctions lists (CTAF, UN, EU, OFAC). Positive matches trigger enhanced validation before account opening.\n   FinSight Bank applies three levels of due diligence:\n   • Simplified: low-risk clients (employees, stable income, local source);\n   • Standard: most clients;\n   • Enhanced: politically exposed persons (PEPs), non-residents, and high-risk sectors.\n   KYC data must be updated periodically or whenever significant changes occur (address, business, ownership, or transaction pattern). Any relationship lacking complete identification is suspended until compliance is achieved.",
+    "text": "None\n3. Client Identification and Verification (KYC) Client identification is the first line of defense against illicit activities. No business relationship can begin without prior identification and verification of the client and ultimate beneficial owner. Upon onboarding, relationship managers collect official identification documents, proof of address, professional and income details, and the purpose of the banking relationship. For legal entities, required documents include incorporation papers, commercial registration, ownership structure, and list of beneficial owners. Clients are questioned about the source of funds, nature of transactions, and counterparties. Information is recorded in the FinSight Onboard system, which automatically screens against national and international sanctions lists (CTAF, UN, EU, OFAC). Positive matches trigger enhanced validation before account opening. FinSight Bank applies three levels of due diligence: • Simplified: low-risk clients (employees, stable income, local source); • Standard: most clients; • Enhanced: politically exposed persons (PEPs), non-residents, and high-risk sectors. KYC data must be updated periodically or whenever significant changes occur (address, business, ownership, or transaction pattern). Any relationship lacking complete identification is suspended until compliance is achieved.",
     "token_count": 242,
-    "created_at": "2025-11-01T15:50:46.264366"
+    "created_at": "2025-11-02T15:37:05.670883"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -45,9 +45,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n4. Risk Classification and Assessment\n   FinSight Bank uses an internal risk model to segment clients into objectively defined categories. Assessment occurs at onboarding and is regularly updated.\n   The AML-CFT risk model considers client profile, activity nature, transaction volume and frequency, geographic fund origin, distribution channel, and operational complexity. Weighted coefficients determine the overall risk level.\n   Clients are classified as Low, Medium, or High Risk:\n   • Low: transparent domestic activity with stable flows;\n   • Medium: diversified or international activity requiring closer monitoring;\n   • High: PEPs, offshore entities, shell companies, or complex ownership chains.\n   The FinSight AML-Scoring® engine determines review frequency:\n   • Low risk – every 12 months;\n   • Medium risk – every 6 months;\n   • High risk – every 3 months.\n   Quarterly reports on client risk ratings are submitted to the Compliance Department and the Risk Committee.",
+    "text": "None\n4. Risk Classification and Assessment FinSight Bank uses an internal risk model to segment clients into objectively defined categories. Assessment occurs at onboarding and is regularly updated. The AML-CFT risk model considers client profile, activity nature, transaction volume and frequency, geographic fund origin, distribution channel, and operational complexity. Weighted coefficients determine the overall risk level. Clients are classified as Low, Medium, or High Risk: • Low: transparent domestic activity with stable flows; • Medium: diversified or international activity requiring closer monitoring; • High: PEPs, offshore entities, shell companies, or complex ownership chains. The FinSight AML-Scoring® engine determines review frequency: • Low risk – every 12 months; • Medium risk – every 6 months; • High risk – every 3 months. Quarterly reports on client risk ratings are submitted to the Compliance Department and the Risk Committee.",
     "token_count": 179,
-    "created_at": "2025-11-01T15:50:46.265365"
+    "created_at": "2025-11-02T15:37:05.700984"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -55,9 +55,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n5. Transaction Monitoring\n   Transaction monitoring serves as the second line of AML-CFT defense, detecting atypical or disproportionate operations relative to the client profile.\n   FinSight Bank operates a real-time Transaction Monitoring module within its AML Suite. It analyzes all transactions (branch, digital, and interbank) daily using configurable thresholds, behavior-based scenarios, and alert indicators defined by Compliance.\n   Typical alerts include:\n   • Repeated low-value international transfers without economic justification;\n   • Successive cash deposits and rapid foreign transfers;\n   • Cross-movements between linked accounts without commercial rationale;\n   • Transit account use by newly incorporated companies;\n   • Transactions involving high-risk or sanctioned jurisdictions.\n   Alerts are reviewed within 48 hours by compliance analysts. Confirmed suspicious cases trigger a Suspicious Transaction Report (STR) to CTAF within 24 hours. The AML-Suite logs all alerts, actions, and justifications for audit purposes. Performance metrics (alerts, STR ratio, resolution time) are reported monthly to General Management.",
+    "text": "None\n5. Transaction Monitoring Transaction monitoring serves as the second line of AML-CFT defense, detecting atypical or disproportionate operations relative to the client profile. FinSight Bank operates a real-time Transaction Monitoring module within its AML Suite. It analyzes all transactions (branch, digital, and interbank) daily using configurable thresholds, behavior-based scenarios, and alert indicators defined by Compliance. Typical alerts include: • Repeated low-value international transfers without economic justification; • Successive cash deposits and rapid foreign transfers; • Cross-movements between linked accounts without commercial rationale; • Transit account use by newly incorporated companies; • Transactions involving high-risk or sanctioned jurisdictions. Alerts are reviewed within 48 hours by compliance analysts. Confirmed suspicious cases trigger a Suspicious Transaction Report (STR) to CTAF within 24 hours. The AML-Suite logs all alerts, actions, and justifications for audit purposes. Performance metrics (alerts, STR ratio, resolution time) are reported monthly to General Management.",
     "token_count": 218,
-    "created_at": "2025-11-01T15:50:46.268022"
+    "created_at": "2025-11-02T15:37:05.738626"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -65,9 +65,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n6. Suspicious Transaction Reporting (STR)\n   The STR process is a legal obligation requiring financial institutions to report suspicious operations to the CTAF. FinSight Bank’s procedure ensures confidentiality, speed, and traceability.\n   When an anomaly is detected, the compliance analyst reviews it in light of the client’s KYC and transaction history. If explanations remain insufficient, the AML-CFT Officer must validate the report within 24 hours. Confirmed STRs are sent to the CTAF via a secure channel and archived in encrypted form.\n   No employee may inform clients of STRs, in compliance with non-disclosure laws. The Compliance Department maintains an internal STR register, updated quarterly and shared with the Audit Committee.",
+    "text": "None\n6. Suspicious Transaction Reporting (STR) The STR process is a legal obligation requiring financial institutions to report suspicious operations to the CTAF. FinSight Bank’s procedure ensures confidentiality, speed, and traceability. When an anomaly is detected, the compliance analyst reviews it in light of the client’s KYC and transaction history. If explanations remain insufficient, the AML-CFT Officer must validate the report within 24 hours. Confirmed STRs are sent to the CTAF via a secure channel and archived in encrypted form. No employee may inform clients of STRs, in compliance with non-disclosure laws. The Compliance Department maintains an internal STR register, updated quarterly and shared with the Audit Committee.",
     "token_count": 151,
-    "created_at": "2025-11-01T15:50:46.268666"
+    "created_at": "2025-11-02T15:37:05.766492"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -75,9 +75,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n7. Training and Awareness\n   Compliance is only effective through institutional culture. FinSight Bank treats AML-CFT training as a strategic prevention tool and individual responsibility.\n   All new hires complete mandatory e-learning covering KYC obligations, suspicious transaction detection, and reporting procedures. Annual in-person sessions reinforce awareness, addressing local typologies and emerging trends from BCT and CTAF reports.\n   Training participation and performance are tracked via the FinSight HR Competency Management System. Semiannual summaries are reviewed by the Risk Committee. The annual “Compliance Culture – A Daily Reflex” campaign strengthens vigilance and ethical awareness.",
+    "text": "None\n7. Training and Awareness Compliance is only effective through institutional culture. FinSight Bank treats AML-CFT training as a strategic prevention tool and individual responsibility. All new hires complete mandatory e-learning covering KYC obligations, suspicious transaction detection, and reporting procedures. Annual in-person sessions reinforce awareness, addressing local typologies and emerging trends from BCT and CTAF reports. Training participation and performance are tracked via the FinSight HR Competency Management System. Semiannual summaries are reviewed by the Risk Committee. The annual “Compliance Culture – A Daily Reflex” campaign strengthens vigilance and ethical awareness.",
     "token_count": 130,
-    "created_at": "2025-11-01T15:50:46.268666"
+    "created_at": "2025-11-02T15:37:05.782267"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -85,9 +85,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n8. Record Keeping and Archiving\n   FinSight Bank retains KYC and AML records per BCT Circular 2018-06 and FATF standards for at least 10 years after business relationship closure. Records are stored electronically in FinSight Docs Secure on redundant servers in Tunisia and, for key paper documents, physically archived in certified centers.\n   Access is restricted to authorized Compliance, Internal Audit, and Legal staff for investigation or control purposes, with all consultations logged and timestamped. Retention periods may be extended upon request by CTAF, BCT, or judicial authorities. Data is securely destroyed after expiry.",
+    "text": "None\n8. Record Keeping and Archiving FinSight Bank retains KYC and AML records per BCT Circular 2018-06 and FATF standards for at least 10 years after business relationship closure. Records are stored electronically in FinSight Docs Secure on redundant servers in Tunisia and, for key paper documents, physically archived in certified centers. Access is restricted to authorized Compliance, Internal Audit, and Legal staff for investigation or control purposes, with all consultations logged and timestamped. Retention periods may be extended upon request by CTAF, BCT, or judicial authorities. Data is securely destroyed after expiry.",
     "token_count": 125,
-    "created_at": "2025-11-01T15:50:46.268666"
+    "created_at": "2025-11-02T15:37:05.796866"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -95,9 +95,9 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n9. Interbank Cooperation and Regulatory Reporting\n   FinSight Bank maintains continuous collaboration with the BCT, CTAF, and peer institutions through the AML Exchange Portal for secure data sharing. Reports include the semiannual AML-CFT statement, STR statistics, training logs, and audit follow-ups.\n   FinSight Bank participates in BCT and CTAF working groups and cooperates with judicial authorities under confidentiality laws. Unjustified refusal to cooperate or delays in disclosure constitute serious violations.",
+    "text": "None\n9. Interbank Cooperation and Regulatory Reporting FinSight Bank maintains continuous collaboration with the BCT, CTAF, and peer institutions through the AML Exchange Portal for secure data sharing. Reports include the semiannual AML-CFT statement, STR statistics, training logs, and audit follow-ups. FinSight Bank participates in BCT and CTAF working groups and cooperates with judicial authorities under confidentiality laws. Unjustified refusal to cooperate or delays in disclosure constitute serious violations.",
     "token_count": 102,
-    "created_at": "2025-11-01T15:50:46.268666"
+    "created_at": "2025-11-02T15:37:05.808178"
   },
   {
     "doc_id": "KYC_and_AML_CFT_Procedure_EN",
@@ -105,8 +105,8 @@
     "chunk_type": "paragraph",
     "section": null,
     "title": "Kyc And Aml Cft Procedure En",
-    "text": "None\n10. Final Provisions\n    Effective January 1, 2025, this procedure supersedes prior versions. Compliance is mandatory for all employees and subsidiaries. The Compliance Department ensures annual updates reflecting new BCT, CTAF, or FATF directives.\n    Violations trigger immediate corrective action and may lead to disciplinary or legal measures. An official copy is available on the FinSight intranet; subsidiaries must adapt locally while maintaining alignment with group standards.\n    FinSight Bank reaffirms its commitment to a robust, risk-based AML-CFT framework as a cornerstone of trust, transparency, and institutional integrity.",
+    "text": "None\n10. Final Provisions Effective January 1, 2025, this procedure supersedes prior versions. Compliance is mandatory for all employees and subsidiaries. The Compliance Department ensures annual updates reflecting new BCT, CTAF, or FATF directives. Violations trigger immediate corrective action and may lead to disciplinary or legal measures. An official copy is available on the FinSight intranet; subsidiaries must adapt locally while maintaining alignment with group standards. FinSight Bank reaffirms its commitment to a robust, risk-based AML-CFT framework as a cornerstone of trust, transparency, and institutional integrity.",
     "token_count": 123,
-    "created_at": "2025-11-01T15:50:46.274058"
+    "created_at": "2025-11-02T15:37:05.808963"
   }
 ]
